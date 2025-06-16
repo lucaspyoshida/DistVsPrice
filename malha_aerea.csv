@@ -1,0 +1,1148 @@
+Origem,Saida,Chegada,Destino,Periodo,Frequencia
+Aeroparque,03:40,07:00,Brasília,01/maio - 31/maio,Domingo
+Aeroparque,14:20,17:35,Confins,01/maio - 31/maio,Quarta
+Aeroparque,16:25,19:45,Confins,01/maio - 31/maio,Sábado
+Aeroparque,10:40,12:40,Florianópolis,01/maio - 31/maio,Domingo
+Aeroparque,20:30,22:30,Florianópolis,01/maio - 31/maio,Sexta Sábado Domingo
+Aeroparque,22:25,00:25,Florianópolis,01/maio - 31/maio,Sexta
+Aeroparque,22:25,00:25,Florianópolis,01/maio - 31/maio,Segunda Quarta Sexta
+Aeroparque,22:00,03:20,Fortaleza,01/maio - 31/maio,Sábado
+Aeroparque,00:20,03:15,Galeão,01/maio - 31/maio,Quinta
+Aeroparque,13:55,16:50,Galeão,01/maio - 31/maio,Sábado Segunda Terça Quarta Quinta
+Aeroparque,15:50,18:45,Galeão,01/maio - 31/maio,Sexta Sábado Domingo
+Aeroparque,16:00,18:55,Galeão,01/maio - 31/maio,Quarta
+Aeroparque,03:30,05:55,Guarulhos,01/maio - 31/maio,Domingo Segunda Terça Quarta Quinta
+Aeroparque,09:00,11:55,Guarulhos,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Aeroparque,10:20,13:10,Guarulhos,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Aeroparque,13:40,16:45,Guarulhos,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Aeroparque,18:20,21:15,Guarulhos,01/maio - 31/maio,Sexta Sábado Domingo
+Aeroparque,00:15,05:45,Natal,01/maio - 31/maio,Domingo
+Aeroparque,22:25,23:55,Porto Alegre,01/maio - 31/maio,Segunda Quarta Sexta
+Aeroparque,19:40,00:40,Recife,01/maio - 31/maio,Sábado
+Aeroparque,22:25,03:25,Recife,01/maio - 31/maio,Terça
+Aeroparque,19:05,23:30,Salvador,01/maio - 31/maio,Sábado
+Aeroparque,22:25,02:50,Salvador,01/maio - 31/maio,Quinta Sábado
+Aracaju,12:05,15:00,Congonhas,01/maio - 31/maio,Sábado
+Aracaju,16:35,19:00,Galeão,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Aracaju,02:15,05:00,Guarulhos,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Aracaju,19:20,22:00,Guarulhos,01/maio - 31/maio,Domingo Segunda Terça Quarta Quinta
+Aracaju,12:35,13:25,Salvador,01/maio - 31/maio,Sexta Sábado Domingo
+Araçatuba,13:45,14:55,Congonhas,01/maio - 31/maio,Segunda Quarta Sexta Domingo
+Assunção,12:30,14:35,Guarulhos,01/maio - 31/maio,Sexta Domingo
+Aruba,22:30,05:40,Guarulhos,01/maio - 31/maio,Sábado
+Belém,05:00,07:35,Brasília,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Belém,17:00,19:40,Brasília,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Belém,03:15,06:50,Galeão,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Belém,03:15,07:00,Guarulhos,01/maio - 31/maio,Sexta Domingo
+Belém,03:55,07:40,Guarulhos,01/maio - 31/maio,Sábado
+Belém,12:35,13:35,Macapá,01/maio - 31/maio,Sexta Domingo
+Belém,12:40,14:35,Paramaribo,01/maio - 31/maio,Sábado
+Belém,00:35,02:00,Santarém,01/maio - 31/maio,Sexta Sábado
+Belém,18:50,20:15,Santarém,01/maio - 31/maio,Sábado
+Bogotá,23:20,06:50,Brasília,01/maio - 31/maio,Segunda Quarta Sexta Domingo
+Bogotá,13:25,17:30,Manaus,01/maio - 31/maio,Quarta Domingo
+Porto Seguro,08:30,10:40,Congonhas,01/maio - 31/maio,Domingo
+Porto Seguro,12:45,14:55,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo
+Porto Seguro,17:00,19:05,Congonhas,01/maio - 31/maio,Domingo
+Porto Seguro,17:25,19:35,Congonhas,01/maio - 31/maio,Sexta
+Porto Seguro,17:50,19:55,Congonhas,01/maio - 31/maio,Sexta
+Porto Seguro,08:20,09:40,Confins,01/maio - 31/maio,Domingo
+Porto Seguro,14:20,15:40,Confins,01/maio - 31/maio,Sexta
+Porto Seguro,16:35,17:55,Confins,01/maio - 31/maio,Sábado
+Porto Seguro,21:15,22:35,Confins,01/maio - 31/maio,Sábado
+Porto Seguro,22:55,00:15,Confins,01/maio - 31/maio,Domingo
+Porto Seguro,22:30,02:40,Ezeiza,01/maio - 31/maio,Sábado
+Porto Seguro,11:20,13:25,Guarulhos,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Porto Seguro,18:50,20:50,Guarulhos,01/maio - 31/maio,Sexta Domingo
+Porto Seguro,14:20,15:20,Salvador,01/maio - 31/maio,Sábado
+Brasília,22:05,00:40,Boa Vista,01/maio - 31/maio,Segunda Quarta Sexta Domingo
+Brasília,08:40,09:35,Cuiabá,01/maio - 31/maio,Terça Quinta Sábado
+Brasília,21:20,22:15,Cuiabá,01/maio - 31/maio,Sexta
+Brasília,23:40,00:35,Cuiabá,01/maio - 31/maio,Domingo
+Brasília,07:00,08:50,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Brasília,08:35,10:25,Congonhas,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Brasília,09:30,11:15,Congonhas,01/maio - 31/maio,Sexta
+Brasília,09:45,11:35,Congonhas,01/maio - 31/maio,Domingo
+Brasília,10:45,12:35,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Brasília,14:00,15:50,Congonhas,01/maio - 31/maio,Sexta
+Brasília,16:50,18:40,Congonhas,01/maio - 31/maio,Domingo
+Brasília,17:00,18:45,Congonhas,01/maio - 31/maio,Sexta Segunda Terça Quarta Quinta
+Brasília,17:40,19:35,Congonhas,01/maio - 31/maio,Sexta
+Brasília,17:45,19:35,Congonhas,01/maio - 31/maio,Domingo
+Brasília,19:00,20:45,Congonhas,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Brasília,19:45,21:40,Congonhas,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Brasília,20:25,22:20,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Brasília,08:35,09:55,Confins,01/maio - 31/maio,Sexta Sábado
+Brasília,09:20,10:40,Confins,01/maio - 31/maio,Domingo
+Brasília,20:55,22:20,Confins,01/maio - 31/maio,Sexta Domingo
+Brasília,09:55,16:00,Cancun,01/maio - 31/maio,Terça Sábado
+Brasília,08:30,10:25,Curitiba,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Brasília,21:15,23:15,Curitiba,01/maio - 31/maio,Sexta Domingo
+Brasília,08:25,12:00,Ezeiza,01/maio - 31/maio,Domingo
+Brasília,21:10,23:35,Florianópolis,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Brasília,08:50,11:25,Fortaleza,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Brasília,20:55,23:30,Fortaleza,01/maio - 31/maio,Sexta Domingo
+Brasília,00:15,02:05,Galeão,01/maio - 31/maio,Quinta
+Brasília,00:30,02:20,Galeão,01/maio - 31/maio,Segunda
+Brasília,04:50,06:40,Galeão,01/maio - 31/maio,Domingo
+Brasília,08:25,10:10,Galeão,01/maio - 31/maio,Sexta Sábado Domingo
+Brasília,10:15,12:00,Galeão,01/maio - 31/maio,Terça Sexta Sábado Domingo
+Brasília,15:50,17:35,Galeão,01/maio - 31/maio,Sexta Sábado Domingo Terça Quarta Sexta Sábado
+Brasília,18:15,20:05,Galeão,01/maio - 31/maio,Domingo Segunda Terça Quarta Quinta
+Brasília,20:45,22:35,Galeão,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Brasília,06:00,08:00,Guarulhos,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Brasília,11:25,13:10,Guarulhos,01/maio - 31/maio,Sexta Sábado Domingo
+Brasília,13:50,15:35,Guarulhos,01/maio - 31/maio,Domingo
+Brasília,14:20,16:05,Guarulhos,01/maio - 31/maio,Sexta
+Brasília,16:55,18:40,Guarulhos,01/maio - 31/maio,Sábado
+Brasília,19:25,21:15,Guarulhos,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Brasília,20:45,22:35,Guarulhos,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Brasília,09:35,10:25,Goiânia,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Brasília,08:45,11:25,João Pessoa,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Brasília,23:10,01:20,Marabá,01/maio - 31/maio,Sexta Domingo
+Brasília,08:40,10:55,Manaus,01/maio - 31/maio,Sábado
+Brasília,08:55,10:55,Manaus,01/maio - 31/maio,Sexta Domingo
+Brasília,20:35,22:30,Manaus,01/maio - 31/maio,Segunda Quarta Sexta Domingo
+Brasília,21:05,23:00,Manaus,01/maio - 31/maio,Terça Quinta
+Brasília,09:40,17:05,Orlando,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Brasília,09:00,11:25,Maceió,01/maio - 31/maio,Sexta Sábado Domingo
+Brasília,10:20,12:45,Maceió,01/maio - 31/maio,Sábado
+Brasília,21:55,00:20,Maceió,01/maio - 31/maio,Quinta
+Brasília,23:00,01:25,Maceió,01/maio - 31/maio,Terça Sexta Sábado Domingo
+Brasília,10:10,17:20,Miami,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Brasília,08:45,11:30,Natal,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Brasília,20:50,22:15,Palmas,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Brasília,08:50,11:30,Porto Alegre,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Brasília,21:00,23:40,Porto Alegre,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Brasília,20:55,22:50,Porto Velho,01/maio - 31/maio,Sexta Domingo
+Brasília,08:40,10:00,Rio Branco,01/maio - 31/maio,Segunda Quarta Sexta Domingo
+Brasília,21:30,22:50,Rio Branco,01/maio - 31/maio,Terça Quinta Sábado
+Brasília,09:05,11:50,Recife,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Brasília,21:00,23:45,Recife,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Brasília,07:05,08:50,Santos Dumont,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Brasília,08:55,10:40,Santos Dumont,01/maio - 31/maio,Sexta Sábado Domingo
+Brasília,10:45,12:25,Santos Dumont,01/maio - 31/maio,Quinta
+Brasília,12:25,14:05,Santos Dumont,01/maio - 31/maio,Sexta Sábado Domingo
+Brasília,15:10,16:50,Santos Dumont,01/maio - 31/maio,Sábado
+Brasília,15:10,16:50,Santos Dumont,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Brasília,17:50,19:35,Santos Dumont,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Brasília,20:40,22:25,Santos Dumont,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Brasília,08:35,11:00,São Luís,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Brasília,08:40,10:35,Salvador,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Brasília,12:00,14:00,Salvador,01/maio - 31/maio,Sexta Domingo
+Brasília,16:30,18:25,Salvador,01/maio - 31/maio,Quinta
+Brasília,20:50,22:45,Salvador,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Brasília,22:30,00:45,Teresina,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Brasília,09:00,10:40,Viracopos,01/maio - 31/maio,Sexta Sábado Domingo
+Bonito,12:45,15:40,Congonhas,01/maio - 31/maio,Terça Sábado
+Cascavel,11:20,12:55,Guarulhos,01/maio - 31/maio,Domingo
+Cascavel,20:25,22:00,Guarulhos,01/maio - 31/maio,Sexta
+Cuiabá,10:35,13:50,Congonhas,01/maio - 31/maio,Sexta
+Cuiabá,10:55,14:10,Congonhas,01/maio - 31/maio,Sábado Domingo
+Cuiabá,10:15,13:55,Galeão,01/maio - 31/maio,Terça Quinta Sábado
+Cuiabá,01:55,05:10,Guarulhos,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Cuiabá,17:00,20:20,Guarulhos,01/maio - 31/maio,Sexta
+Cuiabá,17:45,21:05,Guarulhos,01/maio - 31/maio,Domingo
+Congonhas,11:50,12:45,Campo Grande,01/maio - 31/maio,Sexta Sábado Domingo
+Congonhas,11:15,12:45,Caldas Novas,01/maio - 31/maio,Quinta Domingo
+Congonhas,06:30,07:55,Confins,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Congonhas,08:05,09:30,Confins,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Congonhas,09:00,10:25,Confins,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Congonhas,10:10,11:30,Confins,01/maio - 31/maio,Sexta Sábado
+Congonhas,10:30,11:50,Confins,01/maio - 31/maio,Sábado
+Congonhas,14:20,15:45,Confins,01/maio - 31/maio,Sexta
+Congonhas,14:50,16:10,Confins,01/maio - 31/maio,Domingo
+Congonhas,16:25,17:50,Confins,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Congonhas,17:20,18:45,Confins,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Congonhas,18:40,19:55,Confins,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Congonhas,20:40,22:05,Confins,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Congonhas,07:10,08:20,Curitiba,01/maio - 31/maio,Sexta Sábado
+Congonhas,08:10,09:15,Curitiba,01/maio - 31/maio,Sábado Domingo
+Congonhas,08:30,09:40,Curitiba,01/maio - 31/maio,Sexta Segunda Terça Quarta Quinta
+Congonhas,10:25,11:35,Curitiba,01/maio - 31/maio,Sexta Segunda Terça Quarta Quinta
+Congonhas,13:05,14:15,Curitiba,01/maio - 31/maio,Sexta Domingo
+Congonhas,14:40,15:50,Curitiba,01/maio - 31/maio,Domingo
+Congonhas,15:25,16:35,Curitiba,01/maio - 31/maio,Terça
+Congonhas,15:45,16:55,Curitiba,01/maio - 31/maio,Segunda Quarta Quinta Sexta
+Congonhas,16:40,17:50,Curitiba,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Congonhas,18:15,19:20,Curitiba,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Congonhas,19:10,20:10,Curitiba,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Congonhas,21:00,22:05,Curitiba,01/maio - 31/maio,Sexta Domingo
+Congonhas,10:55,12:30,Caxias do Sul,01/maio - 31/maio,Terça
+Congonhas,11:15,12:55,Caxias do Sul,01/maio - 31/maio,Domingo Segunda Terça Quarta Quinta
+Congonhas,07:05,08:25,Florianópolis,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Congonhas,10:30,11:50,Florianópolis,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Congonhas,13:30,14:50,Florianópolis,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Congonhas,14:50,16:05,Florianópolis,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Congonhas,16:20,17:35,Florianópolis,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Congonhas,17:50,19:10,Florianópolis,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Congonhas,19:05,20:25,Florianópolis,01/maio - 31/maio,Sexta Domingo
+Congonhas,09:15,12:45,Fortaleza,01/maio - 31/maio,Sábado
+Congonhas,10:00,13:30,Fortaleza,01/maio - 31/maio,Sexta Domingo
+Congonhas,12:40,16:10,Fortaleza,01/maio - 31/maio,Sábado
+Congonhas,22:00,01:30,Fortaleza,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Congonhas,06:25,07:30,Galeão,01/maio - 31/maio,Sexta
+Congonhas,06:45,07:50,Galeão,01/maio - 31/maio,Sábado Domingo
+Congonhas,10:55,12:05,Galeão,01/maio - 31/maio,Sábado Domingo
+Congonhas,11:15,12:25,Galeão,01/maio - 31/maio,Terça
+Congonhas,14:25,15:35,Galeão,01/maio - 31/maio,Sexta Domingo
+Congonhas,18:15,19:35,Galeão,01/maio - 31/maio,Domingo
+Congonhas,18:30,19:50,Galeão,01/maio - 31/maio,Sexta
+Congonhas,18:35,19:50,Galeão,01/maio - 31/maio,Domingo
+Congonhas,22:20,23:35,Galeão,01/maio - 31/maio,Domingo
+Congonhas,06:55,08:40,Goiânia,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Congonhas,09:30,11:15,Goiânia,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Congonhas,14:30,16:15,Goiânia,01/maio - 31/maio,Sexta
+Congonhas,15:35,17:20,Goiânia,01/maio - 31/maio,Sábado Domingo
+Congonhas,16:25,18:10,Goiânia,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Congonhas,21:15,22:55,Goiânia,01/maio - 31/maio,Sexta
+Congonhas,21:30,23:10,Goiânia,01/maio - 31/maio,Domingo
+Congonhas,11:40,13:30,Foz do Iguaçu,01/maio - 31/maio,Domingo
+Congonhas,12:00,13:50,Foz do Iguaçu,01/maio - 31/maio,Sexta Sábado
+Congonhas,11:10,13:20,Ilhéus,01/maio - 31/maio,Sábado
+Congonhas,11:10,12:25,Zona da Mata,01/maio - 31/maio,Segunda Quarta Sexta Domingo
+Congonhas,11:30,12:35,Joinville,01/maio - 31/maio,Sexta
+Congonhas,12:05,13:10,Joinville,01/maio - 31/maio,Sábado Domingo
+Congonhas,21:10,22:15,Joinville,01/maio - 31/maio,Sexta Domingo
+Congonhas,13:45,17:00,João Pessoa,01/maio - 31/maio,Sábado
+Congonhas,10:50,12:10,Londrina,01/maio - 31/maio,Domingo
+Congonhas,12:45,14:00,Londrina,01/maio - 31/maio,Sexta
+Congonhas,09:30,12:30,Maceió,01/maio - 31/maio,Sábado
+Congonhas,14:50,17:50,Maceió,01/maio - 31/maio,Sábado
+Congonhas,22:10,01:10,Maceió,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Congonhas,13:15,14:40,Maringá,01/maio - 31/maio,Sexta Sábado Domingo
+Congonhas,13:40,15:25,Montes Claros,01/maio - 31/maio,Domingo
+Congonhas,14:05,15:50,Montes Claros,01/maio - 31/maio,Sexta Segunda Terça Quarta Quinta
+Congonhas,07:45,09:05,Navegantes,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Congonhas,09:45,10:55,Navegantes,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Congonhas,14:25,15:40,Navegantes,01/maio - 31/maio,Sexta Domingo
+Congonhas,14:25,15:35,Navegantes,01/maio - 31/maio,Sábado
+Congonhas,16:05,17:15,Navegantes,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Congonhas,17:25,18:40,Navegantes,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Congonhas,07:00,08:45,Porto Alegre,01/maio - 31/maio,Sexta Sábado
+Congonhas,08:15,10:00,Porto Alegre,01/maio - 31/maio,Sábado
+Congonhas,08:15,10:00,Porto Alegre,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Congonhas,09:05,10:50,Porto Alegre,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Congonhas,11:00,12:50,Porto Alegre,01/maio - 31/maio,Sexta Sábado Domingo
+Congonhas,14:40,16:25,Porto Alegre,01/maio - 31/maio,Sábado
+Congonhas,15:25,17:10,Porto Alegre,01/maio - 31/maio,Sexta Domingo
+Congonhas,15:45,17:30,Porto Alegre,01/maio - 31/maio,Sábado
+Congonhas,16:40,18:25,Porto Alegre,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Congonhas,17:40,19:20,Porto Alegre,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Congonhas,19:25,21:15,Porto Alegre,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Congonhas,20:20,22:10,Porto Alegre,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Congonhas,12:00,13:20,Presidente Prudente,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Congonhas,08:05,09:20,Ribeirão Preto,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Congonhas,16:55,18:00,Ribeirão Preto,01/maio - 31/maio,Sexta Domingo
+Congonhas,06:35,09:50,Recife,01/maio - 31/maio,Sábado
+Congonhas,06:55,10:10,Recife,01/maio - 31/maio,Domingo
+Congonhas,07:00,10:15,Recife,01/maio - 31/maio,Sexta Segunda Terça Quarta Quinta
+Congonhas,14:40,18:00,Recife,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Congonhas,18:35,21:55,Recife,01/maio - 31/maio,Sexta
+Congonhas,19:20,22:40,Recife,01/maio - 31/maio,Domingo
+Congonhas,20:55,00:15,Recife,01/maio - 31/maio,Sábado
+Congonhas,22:05,01:15,Recife,01/maio - 31/maio,Terça Quinta
+Congonhas,06:05,07:10,Santos Dumont,01/maio - 31/maio,Sexta
+Congonhas,06:20,07:25,Santos Dumont,01/maio - 31/maio,Sábado
+Congonhas,06:45,07:50,Santos Dumont,01/maio - 31/maio,Sexta
+Congonhas,07:00,08:05,Santos Dumont,01/maio - 31/maio,Sábado
+Congonhas,07:30,08:35,Santos Dumont,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Congonhas,08:00,09:05,Santos Dumont,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Congonhas,08:40,09:45,Santos Dumont,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Congonhas,09:20,10:25,Santos Dumont,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Congonhas,10:05,11:15,Santos Dumont,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Congonhas,10:45,11:50,Santos Dumont,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Congonhas,11:15,12:20,Santos Dumont,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Congonhas,11:45,12:50,Santos Dumont,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Congonhas,12:25,13:30,Santos Dumont,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Congonhas,13:00,14:05,Santos Dumont,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Congonhas,14:00,15:05,Santos Dumont,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Congonhas,14:35,15:40,Santos Dumont,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Congonhas,15:10,16:15,Santos Dumont,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Congonhas,15:35,16:40,Santos Dumont,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Congonhas,16:15,17:20,Santos Dumont,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Congonhas,16:45,17:50,Santos Dumont,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Congonhas,17:35,18:40,Santos Dumont,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Congonhas,18:25,19:25,Santos Dumont,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Congonhas,18:55,20:00,Santos Dumont,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Congonhas,19:35,20:40,Santos Dumont,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Congonhas,20:10,21:15,Santos Dumont,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Congonhas,20:50,21:55,Santos Dumont,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Congonhas,10:45,12:00,São José do Rio Preto,01/maio - 31/maio,Sexta Sábado Domingo
+Congonhas,22:05,23:20,São José do Rio Preto,01/maio - 31/maio,Segunda Quarta Sexta Domingo
+Congonhas,06:00,08:30,Salvador,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Congonhas,07:05,09:35,Salvador,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Congonhas,09:00,11:30,Salvador,01/maio - 31/maio,Sexta Sábado
+Congonhas,11:30,14:05,Salvador,01/maio - 31/maio,Sábado Domingo
+Congonhas,12:25,14:50,Salvador,01/maio - 31/maio,Sexta Segunda Terça Quarta Quinta
+Congonhas,13:45,16:15,Salvador,01/maio - 31/maio,Sexta Sábado Domingo
+Congonhas,15:25,17:55,Salvador,01/maio - 31/maio,Sábado
+Congonhas,16:25,18:55,Salvador,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Congonhas,19:40,22:10,Salvador,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Congonhas,20:25,22:55,Salvador,01/maio - 31/maio,Sexta Domingo
+Congonhas,11:40,12:50,Uberaba,01/maio - 31/maio,Terça Quinta
+Congonhas,12:35,13:50,Uberaba,01/maio - 31/maio,Domingo
+Congonhas,13:20,14:40,Uberlândia,01/maio - 31/maio,Sexta Domingo
+Congonhas,06:10,07:45,Vitória,01/maio - 31/maio,Sábado
+Congonhas,08:45,10:20,Vitória,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Congonhas,13:45,15:25,Vitória,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Congonhas,20:15,21:55,Vitória,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Congonhas,13:15,14:50,Chapecó,01/maio - 31/maio,Sexta Domingo
+Campo Grande,10:15,12:55,Guarulhos,01/maio - 31/maio,Segunda Quarta Sexta Domingo
+Campo Grande,16:25,19:05,Guarulhos,01/maio - 31/maio,Sexta
+Campo Grande,17:20,20:10,Guarulhos,01/maio - 31/maio,Domingo
+Campo Grande,17:45,20:40,Guarulhos,01/maio - 31/maio,Sábado
+Campo Grande,19:15,22:00,Guarulhos,01/maio - 31/maio,Sexta
+Carajás,13:10,15:40,Confins,01/maio - 31/maio,Domingo
+Carajás,14:40,17:10,Confins,01/maio - 31/maio,Segunda Terça Quinta Sexta
+Confins,01:10,02:15,Galeão,01/maio - 31/maio,Quinta
+Confins,05:45,06:50,Galeão,01/maio - 31/maio,Domingo
+Confins,06:00,07:05,Galeão,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Confins,09:20,10:25,Galeão,01/maio - 31/maio,Sexta
+Confins,16:20,17:20,Galeão,01/maio - 31/maio,Domingo
+Confins,19:30,20:35,Galeão,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Confins,20:45,21:50,Galeão,01/maio - 31/maio,Sexta Domingo
+Confins,23:10,00:15,Galeão,01/maio - 31/maio,Domingo
+Confins,06:05,07:25,Guarulhos,01/maio - 31/maio,Quarta Sábado Domingo
+Confins,06:20,07:40,Guarulhos,01/maio - 31/maio,Segunda Terça Quinta Sexta
+Confins,11:00,12:20,Guarulhos,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Confins,15:25,16:45,Guarulhos,01/maio - 31/maio,Sexta Sábado Domingo
+Confins,16:25,17:45,Guarulhos,01/maio - 31/maio,Sexta
+Confins,18:55,20:10,Guarulhos,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Confins,10:35,12:20,Salvador,01/maio - 31/maio,Sexta Sábado
+Confins,11:50,13:35,Salvador,01/maio - 31/maio,Domingo
+Confins,15:25,17:10,Salvador,01/maio - 31/maio,Segunda Quinta Sábado
+Córdova,02:15,05:20,Galeão,01/maio - 31/maio,Domingo
+Córdova,04:15,07:00,Guarulhos,01/maio - 31/maio,Terça Quinta Sábado
+Córdova,00:55,06:10,Recife,01/maio - 31/maio,Domingo
+Campina Grande,03:10,04:35,Salvador,01/maio - 31/maio,Segunda Terça Sexta Sábado
+Curitiba,00:15,01:40,Galeão,01/maio - 31/maio,Segunda Quinta
+Curitiba,05:25,06:50,Galeão,01/maio - 31/maio,Domingo
+Curitiba,05:55,07:10,Galeão,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Curitiba,10:00,11:25,Galeão,01/maio - 31/maio,Sexta Domingo
+Curitiba,10:35,12:00,Galeão,01/maio - 31/maio,Sábado
+Curitiba,14:00,15:25,Galeão,01/maio - 31/maio,Domingo
+Curitiba,14:30,15:55,Galeão,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Curitiba,19:05,20:30,Galeão,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Curitiba,06:00,07:15,Guarulhos,01/maio - 31/maio,Sexta Sábado Domingo
+Curitiba,11:15,12:20,Guarulhos,01/maio - 31/maio,Domingo
+Curitiba,11:35,12:40,Guarulhos,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Curitiba,14:50,15:55,Guarulhos,01/maio - 31/maio,Sexta Sábado Domingo
+Curitiba,18:40,19:55,Guarulhos,01/maio - 31/maio,Domingo
+Curitiba,19:15,20:25,Guarulhos,01/maio - 31/maio,Sexta
+Curitiba,22:50,23:55,Maringá,01/maio - 31/maio,Segunda Quarta Sexta Domingo
+Curitiba,11:00,13:50,Salvador,01/maio - 31/maio,Sábado
+Caxias do Sul,16:10,18:15,Galeão,01/maio - 31/maio,Terça Sábado
+Cruzeiro do Sul,12:35,13:50,Rio Branco,01/maio - 31/maio,Segunda Quarta Sexta Domingo
+Ezeiza,05:00,07:00,Florianópolis,01/maio - 31/maio,Segunda Sexta
+Ezeiza,09:40,11:45,Florianópolis,01/maio - 31/maio,Domingo
+Ezeiza,22:30,00:40,Florianópolis,01/maio - 31/maio,Domingo
+Ezeiza,02:00,07:45,Fortaleza,01/maio - 31/maio,Domingo
+Ezeiza,12:15,15:15,Galeão,01/maio - 31/maio,Sexta Sábado Domingo
+Ezeiza,13:30,16:30,Galeão,01/maio - 31/maio,Domingo
+Ezeiza,19:00,23:50,Maceió,01/maio - 31/maio,Sábado
+Fernando de Noronha,15:30,18:50,Guarulhos,01/maio - 31/maio,Terça Quinta Domingo
+Fernando de Noronha,14:25,14:35,Recife,01/maio - 31/maio,Domingo
+Florianópolis,05:25,06:55,Galeão,01/maio - 31/maio,Domingo
+Florianópolis,06:00,07:30,Galeão,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Florianópolis,10:00,11:30,Galeão,01/maio - 31/maio,Sexta Sábado
+Florianópolis,12:40,14:05,Galeão,01/maio - 31/maio,Domingo
+Florianópolis,14:45,16:15,Galeão,01/maio - 31/maio,Sexta Sábado Domingo
+Florianópolis,16:40,18:10,Galeão,01/maio - 31/maio,Terça Sexta Sábado Domingo
+Florianópolis,19:10,20:40,Galeão,01/maio - 31/maio,Sexta Domingo
+Florianópolis,23:55,01:25,Galeão,01/maio - 31/maio,Domingo
+Florianópolis,06:00,07:30,Guarulhos,01/maio - 31/maio,Sexta Domingo
+Florianópolis,06:10,07:40,Guarulhos,01/maio - 31/maio,Sábado
+Florianópolis,11:00,12:25,Guarulhos,01/maio - 31/maio,Sexta Sábado Domingo
+Florianópolis,15:15,16:35,Guarulhos,01/maio - 31/maio,Terça Quarta Quinta Sexta
+Florianópolis,15:30,16:50,Guarulhos,01/maio - 31/maio,Segunda Sábado Domingo
+Florianópolis,19:10,20:25,Guarulhos,01/maio - 31/maio,Domingo
+Florianópolis,19:35,20:55,Guarulhos,01/maio - 31/maio,Segunda
+Florianópolis,21:40,22:45,Porto Alegre,01/maio - 31/maio,Sexta
+Fortaleza,02:10,05:30,Galeão,01/maio - 31/maio,Segunda Terça Sexta
+Fortaleza,08:35,11:55,Galeão,01/maio - 31/maio,Domingo
+Fortaleza,11:30,14:50,Galeão,01/maio - 31/maio,Sexta
+Fortaleza,13:35,16:55,Galeão,01/maio - 31/maio,Sábado
+Fortaleza,16:00,19:20,Galeão,01/maio - 31/maio,Sábado
+Fortaleza,17:00,20:20,Galeão,01/maio - 31/maio,Terça Domingo
+Fortaleza,19:25,22:45,Galeão,01/maio - 31/maio,Sexta Domingo
+Fortaleza,20:00,23:20,Galeão,01/maio - 31/maio,Quarta
+Fortaleza,03:10,06:55,Guarulhos,01/maio - 31/maio,Sexta Sábado Domingo
+Fortaleza,12:30,16:05,Guarulhos,01/maio - 31/maio,Terça Quarta Quinta Sexta Sábado
+Fortaleza,12:50,16:25,Guarulhos,01/maio - 31/maio,Domingo
+Fortaleza,18:15,22:00,Guarulhos,01/maio - 31/maio,Sexta Domingo
+Fortaleza,04:30,11:45,Orlando,01/maio - 31/maio,Quinta
+Fortaleza,01:25,08:15,Miami,01/maio - 31/maio,Quarta Sábado
+Fortaleza,12:05,13:55,Salvador,01/maio - 31/maio,Sexta Sábado Domingo
+Santo Angelo,19:35,21:35,Guarulhos,01/maio - 31/maio,Terça Quinta Sábado
+Galeão,01:00,02:05,Guarulhos,01/maio - 31/maio,Segunda
+Galeão,05:55,07:00,Guarulhos,01/maio - 31/maio,Sexta Sábado Domingo
+Galeão,06:40,07:50,Guarulhos,01/maio - 31/maio,Sábado
+Galeão,10:50,12:00,Guarulhos,01/maio - 31/maio,Domingo
+Galeão,11:20,12:30,Guarulhos,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Galeão,15:55,17:05,Guarulhos,01/maio - 31/maio,Sexta Domingo
+Galeão,17:00,18:10,Guarulhos,01/maio - 31/maio,Segunda Quarta Sexta Sábado
+Galeão,19:15,20:25,Guarulhos,01/maio - 31/maio,Sábado
+Galeão,19:50,21:00,Guarulhos,01/maio - 31/maio,Domingo
+Galeão,20:05,21:15,Guarulhos,01/maio - 31/maio,Sexta Segunda Terça Quarta Quinta
+Galeão,20:55,22:05,Guarulhos,01/maio - 31/maio,Sexta
+Galeão,21:40,22:55,Guarulhos,01/maio - 31/maio,Domingo
+Galeão,00:35,02:20,Goiânia,01/maio - 31/maio,Quinta
+Galeão,02:20,04:10,Goiânia,01/maio - 31/maio,Quinta
+Galeão,04:15,06:05,Goiânia,01/maio - 31/maio,Domingo
+Galeão,11:45,13:35,Goiânia,01/maio - 31/maio,Domingo
+Galeão,15:50,17:35,Goiânia,01/maio - 31/maio,Sexta
+Galeão,23:05,00:50,Goiânia,01/maio - 31/maio,Domingo
+Galeão,23:45,01:30,Goiânia,01/maio - 31/maio,Sexta Segunda Terça Quarta Quinta
+Galeão,07:25,09:40,Foz do Iguaçu,01/maio - 31/maio,Sexta Domingo
+Galeão,07:45,10:00,Foz do Iguaçu,01/maio - 31/maio,Sábado
+Galeão,21:35,23:55,Foz do Iguaçu,01/maio - 31/maio,Sexta Domingo Segunda Terça Quinta Sexta
+Galeão,07:40,10:40,João Pessoa,01/maio - 31/maio,Sábado Domingo Segunda Terça Quarta Quinta
+Galeão,23:35,02:35,João Pessoa,01/maio - 31/maio,Sexta Domingo Segunda Terça Quinta Sexta
+Galeão,21:50,01:00,Manaus,01/maio - 31/maio,Domingo Segunda Terça Quarta Quinta
+Galeão,07:45,10:20,Maceió,01/maio - 31/maio,Sexta Sábado Domingo
+Galeão,13:45,16:25,Maceió,01/maio - 31/maio,Sábado
+Galeão,14:35,17:15,Maceió,01/maio - 31/maio,Sexta Domingo
+Galeão,14:50,18:05,Montevidéu,01/maio - 31/maio,Sábado
+Galeão,22:25,01:40,Montevidéu,01/maio - 31/maio,Terça Quinta Domingo
+Galeão,07:45,10:50,Natal,01/maio - 31/maio,Sábado Segunda Terça Quarta Quinta
+Galeão,23:30,02:35,Natal,01/maio - 31/maio,Sexta Sábado Domingo
+Galeão,23:45,02:50,Natal,01/maio - 31/maio,Domingo
+Galeão,07:30,09:05,Navegantes,01/maio - 31/maio,Domingo
+Galeão,08:00,09:35,Navegantes,01/maio - 31/maio,Sexta Sábado
+Galeão,17:00,18:35,Navegantes,01/maio - 31/maio,Domingo
+Galeão,19:15,20:50,Navegantes,01/maio - 31/maio,Sexta
+Galeão,04:00,06:10,Porto Alegre,01/maio - 31/maio,Quinta
+Galeão,04:50,07:00,Porto Alegre,01/maio - 31/maio,Segunda Domingo
+Galeão,06:00,08:05,Porto Alegre,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Galeão,07:40,09:45,Porto Alegre,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Galeão,11:20,13:25,Porto Alegre,01/maio - 31/maio,Sexta Domingo
+Galeão,14:20,16:25,Porto Alegre,01/maio - 31/maio,Sábado
+Galeão,14:40,16:45,Porto Alegre,01/maio - 31/maio,Segunda Terça Sexta Domingo
+Galeão,17:20,19:30,Porto Alegre,01/maio - 31/maio,Domingo
+Galeão,18:15,20:25,Porto Alegre,01/maio - 31/maio,Segunda Quinta Sexta
+Galeão,19:35,21:45,Porto Alegre,01/maio - 31/maio,Terça
+Galeão,19:55,22:05,Porto Alegre,01/maio - 31/maio,Quarta
+Galeão,22:25,00:40,Porto Alegre,01/maio - 31/maio,Terça Domingo
+Galeão,22:55,01:10,Porto Alegre,01/maio - 31/maio,Sexta
+Galeão,23:15,01:30,Porto Alegre,01/maio - 31/maio,Terça Sexta
+Galeão,23:35,01:50,Porto Alegre,01/maio - 31/maio,Segunda Quarta Quinta Sexta
+Galeão,02:20,05:10,Recife,01/maio - 31/maio,Quinta
+Galeão,02:40,05:30,Recife,01/maio - 31/maio,Segunda Domingo
+Galeão,07:25,10:15,Recife,01/maio - 31/maio,Domingo
+Galeão,08:35,11:25,Recife,01/maio - 31/maio,Segunda Quarta Sexta Sábado
+Galeão,08:50,11:40,Recife,01/maio - 31/maio,Terça Quinta
+Galeão,10:30,13:20,Recife,01/maio - 31/maio,Terça Quinta
+Galeão,13:40,16:30,Recife,01/maio - 31/maio,Sexta Sábado
+Galeão,13:55,16:45,Recife,01/maio - 31/maio,Domingo
+Galeão,19:10,22:05,Recife,01/maio - 31/maio,Domingo
+Galeão,23:30,02:25,Recife,01/maio - 31/maio,Quinta Sexta Domingo
+Galeão,23:30,02:25,Recife,01/maio - 31/maio,Sexta
+Galeão,22:30,02:05,Rosário,01/maio - 31/maio,Terça Quinta Sábado
+Galeão,21:40,22:45,São José dos Campos,01/maio - 31/maio,Quarta Sexta Domingo
+Galeão,00:40,02:55,Salvador,01/maio - 31/maio,Segunda
+Galeão,03:00,05:05,Salvador,01/maio - 31/maio,Quinta
+Galeão,08:10,10:15,Salvador,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Galeão,11:45,13:55,Salvador,01/maio - 31/maio,Sexta
+Galeão,12:05,14:15,Salvador,01/maio - 31/maio,Domingo
+Galeão,14:10,16:20,Salvador,01/maio - 31/maio,Segunda Terça Sexta
+Galeão,14:35,16:45,Salvador,01/maio - 31/maio,Quarta Quinta Sábado Domingo
+Galeão,15:40,17:50,Salvador,01/maio - 31/maio,Segunda Quinta
+Galeão,16:10,18:20,Salvador,01/maio - 31/maio,Domingo
+Galeão,16:30,18:40,Salvador,01/maio - 31/maio,Segunda Quinta
+Galeão,21:00,23:10,Salvador,01/maio - 31/maio,Terça Quarta Sexta Domingo
+Galeão,23:15,01:25,Salvador,01/maio - 31/maio,Sexta Domingo
+Galeão,03:20,04:40,Viracopos,01/maio - 31/maio,Domingo
+Galeão,07:45,09:05,Viracopos,01/maio - 31/maio,Sexta Sábado Domingo
+Galeão,17:05,18:25,Viracopos,01/maio - 31/maio,Segunda Quarta Quinta Sexta
+Galeão,17:45,19:05,Viracopos,01/maio - 31/maio,Terça
+Galeão,18:05,19:25,Viracopos,01/maio - 31/maio,Domingo
+Galeão,01:00,02:10,Vitória,01/maio - 31/maio,Segunda
+Galeão,03:00,04:10,Vitória,01/maio - 31/maio,Quinta
+Galeão,05:00,06:10,Vitória,01/maio - 31/maio,Domingo
+Galeão,06:50,08:00,Vitória,01/maio - 31/maio,Sexta Domingo
+Galeão,07:35,08:50,Vitória,01/maio - 31/maio,Sábado
+Galeão,08:00,09:10,Vitória,01/maio - 31/maio,Sábado
+Galeão,10:30,11:40,Vitória,01/maio - 31/maio,Domingo
+Galeão,10:50,12:00,Vitória,01/maio - 31/maio,Sexta Segunda Quarta Quinta Sexta
+Galeão,13:15,14:25,Vitória,01/maio - 31/maio,Domingo
+Galeão,13:45,14:55,Vitória,01/maio - 31/maio,Sábado
+Galeão,17:30,18:40,Vitória,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Galeão,19:45,20:55,Vitória,01/maio - 31/maio,Sexta
+Galeão,19:45,20:55,Vitória,01/maio - 31/maio,Domingo
+Galeão,21:35,22:45,Vitória,01/maio - 31/maio,Sexta Domingo
+Guarulhos,18:25,21:30,Ezeiza,01/maio - 31/maio,Domingo
+Guarulhos,09:00,10:40,Goiânia,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Guarulhos,17:50,19:30,Goiânia,01/maio - 31/maio,Sexta Sábado Domingo
+Guarulhos,18:45,20:25,Goiânia,01/maio - 31/maio,Sexta
+Guarulhos,23:15,00:55,Goiânia,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Guarulhos,08:55,10:45,Foz do Iguaçu,01/maio - 31/maio,Sexta Sábado Domingo
+Guarulhos,17:15,19:05,Foz do Iguaçu,01/maio - 31/maio,Sexta Sábado
+Guarulhos,17:40,19:30,Foz do Iguaçu,01/maio - 31/maio,Domingo
+Guarulhos,18:00,19:45,Foz do Iguaçu,01/maio - 31/maio,Segunda
+Guarulhos,22:15,00:05,Foz do Iguaçu,01/maio - 31/maio,Sexta Domingo
+Guarulhos,09:30,11:35,Ilhéus,01/maio - 31/maio,Sábado
+Guarulhos,15:45,17:50,Ilhéus,01/maio - 31/maio,Sexta Domingo
+Guarulhos,09:05,12:00,Juazeiro do Norte,01/maio - 31/maio,Sábado
+Guarulhos,09:05,12:00,Juazeiro do Norte,01/maio - 31/maio,Quarta
+Guarulhos,15:50,18:40,Juazeiro do Norte,01/maio - 31/maio,Sexta
+Guarulhos,16:20,19:15,Juazeiro do Norte,01/maio - 31/maio,Sábado
+Guarulhos,21:40,00:35,Juazeiro do Norte,01/maio - 31/maio,Sexta Sábado Domingo
+Guarulhos,08:40,12:05,Jericoacoara,01/maio - 31/maio,Segunda Quarta Sábado
+Guarulhos,13:35,17:00,João Pessoa,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Guarulhos,22:15,01:35,João Pessoa,01/maio - 31/maio,Sexta
+Guarulhos,22:35,01:55,João Pessoa,01/maio - 31/maio,Domingo
+Guarulhos,09:15,12:20,Manaus,01/maio - 31/maio,Quarta Quinta Sexta Domingo
+Guarulhos,09:55,13:00,Manaus,01/maio - 31/maio,Segunda Terça Sábado
+Guarulhos,22:00,00:55,Manaus,01/maio - 31/maio,Sexta Domingo
+Guarulhos,06:50,09:45,Maceió,01/maio - 31/maio,Segunda Terça Quinta
+Guarulhos,07:40,10:35,Maceió,01/maio - 31/maio,Quarta
+Guarulhos,07:55,10:50,Maceió,01/maio - 31/maio,Sexta
+Guarulhos,09:20,12:15,Maceió,01/maio - 31/maio,Sábado Domingo
+Guarulhos,13:15,16:15,Maceió,01/maio - 31/maio,Sexta Domingo
+Guarulhos,15:10,18:10,Maceió,01/maio - 31/maio,Sexta
+Guarulhos,15:30,18:30,Maceió,01/maio - 31/maio,Sexta
+Guarulhos,16:05,19:05,Maceió,01/maio - 31/maio,Sábado
+Guarulhos,21:10,00:15,Maceió,01/maio - 31/maio,Segunda Terça Sexta
+Guarulhos,22:10,01:15,Maceió,01/maio - 31/maio,Domingo
+Guarulhos,23:30,02:35,Maceió,01/maio - 31/maio,Quinta
+Guarulhos,23:35,02:40,Maceió,01/maio - 31/maio,Quarta
+Guarulhos,09:35,13:30,Mendoza,01/maio - 31/maio,Terça Quinta Sexta Domingo
+Guarulhos,21:20,22:50,Maringá,01/maio - 31/maio,Sexta Domingo
+Guarulhos,21:50,23:20,Maringá,01/maio - 31/maio,Sábado
+Guarulhos,09:20,12:05,Montevidéu,01/maio - 31/maio,Sexta Sábado Domingo Segunda Quarta Quinta Sexta
+Guarulhos,08:40,12:05,Natal,01/maio - 31/maio,Sábado Domingo Segunda Terça Quarta Quinta
+Guarulhos,14:05,17:35,Natal,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Guarulhos,22:10,01:35,Natal,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Guarulhos,09:15,10:25,Navegantes,01/maio - 31/maio,Sexta Sábado Domingo
+Guarulhos,14:15,15:30,Navegantes,01/maio - 31/maio,Domingo
+Guarulhos,17:10,18:25,Navegantes,01/maio - 31/maio,Sexta Sábado Domingo
+Guarulhos,21:45,23:00,Navegantes,01/maio - 31/maio,Domingo
+Guarulhos,21:50,23:05,Navegantes,01/maio - 31/maio,Sexta Segunda Terça Quarta Quinta
+Guarulhos,09:25,11:10,Sinop,01/maio - 31/maio,Sexta Sábado Domingo
+Guarulhos,16:55,19:05,Pelotas,01/maio - 31/maio,Segunda Quarta Sexta
+Guarulhos,08:45,10:35,Passo Fundo,01/maio - 31/maio,Terça Quinta Sábado
+Guarulhos,21:35,00:15,Petrolina,01/maio - 31/maio,Sexta
+Guarulhos,23:05,01:45,Petrolina,01/maio - 31/maio,Domingo
+Guarulhos,08:40,10:25,Porto Alegre,01/maio - 31/maio,Sexta Sábado Domingo
+Guarulhos,13:55,15:40,Porto Alegre,01/maio - 31/maio,Sábado
+Guarulhos,14:30,16:15,Porto Alegre,01/maio - 31/maio,Sexta Domingo
+Guarulhos,16:05,17:50,Porto Alegre,01/maio - 31/maio,Segunda Terça Quarta Sexta
+Guarulhos,16:50,18:35,Porto Alegre,01/maio - 31/maio,Sábado
+Guarulhos,17:40,19:20,Porto Alegre,01/maio - 31/maio,Domingo
+Guarulhos,18:05,19:45,Porto Alegre,01/maio - 31/maio,Quinta
+Guarulhos,19:50,21:35,Porto Alegre,01/maio - 31/maio,Sexta
+Guarulhos,22:45,00:30,Porto Alegre,01/maio - 31/maio,Sexta Domingo
+Guarulhos,15:35,21:50,Punta Cana,01/maio - 31/maio,Segunda Quarta Sábado
+Guarulhos,06:55,10:00,Recife,01/maio - 31/maio,Domingo
+Guarulhos,08:40,11:55,Recife,01/maio - 31/maio,Segunda Terça Quinta Sexta
+Guarulhos,08:55,12:00,Recife,01/maio - 31/maio,Sábado
+Guarulhos,13:40,16:55,Recife,01/maio - 31/maio,Sexta
+Guarulhos,13:55,17:10,Recife,01/maio - 31/maio,Sábado Domingo
+Guarulhos,22:45,01:55,Recife,01/maio - 31/maio,Domingo
+Guarulhos,23:00,02:10,Recife,01/maio - 31/maio,Sexta
+Guarulhos,14:40,19:10,San Jose,01/maio - 31/maio,Terça Quinta Sábado
+Guarulhos,17:20,20:50,São Luís,01/maio - 31/maio,Sábado
+Guarulhos,22:45,02:15,São Luís,01/maio - 31/maio,Sexta
+Guarulhos,23:00,02:30,São Luís,01/maio - 31/maio,Quinta Sexta Domingo
+Guarulhos,09:20,11:40,Salvador,01/maio - 31/maio,Sábado Domingo Segunda Terça Quarta Quinta
+Guarulhos,13:45,16:10,Salvador,01/maio - 31/maio,Sexta
+Guarulhos,14:40,17:05,Salvador,01/maio - 31/maio,Domingo
+Guarulhos,15:45,18:10,Salvador,01/maio - 31/maio,Sábado
+Guarulhos,22:10,00:35,Salvador,01/maio - 31/maio,Sexta Domingo
+Guarulhos,00:15,03:25,Teresina,01/maio - 31/maio,Terça Quarta Quinta Sexta Sábado
+Guarulhos,21:50,01:00,Teresina,01/maio - 31/maio,Domingo
+Guarulhos,22:30,01:35,Teresina,01/maio - 31/maio,Domingo
+Guarulhos,21:40,23:40,Vitória da Conquista,01/maio - 31/maio,Sexta Domingo
+Guarulhos,00:05,01:35,Vitória,01/maio - 31/maio,Quinta
+Guarulhos,08:50,10:25,Vitória,01/maio - 31/maio,Sábado Domingo
+Guarulhos,09:20,10:55,Vitória,01/maio - 31/maio,Sexta Segunda Terça Quarta Quinta
+Guarulhos,16:45,18:10,Vitória,01/maio - 31/maio,Sexta Domingo Segunda Terça Quinta Sexta
+Guarulhos,23:35,01:10,Vitória,01/maio - 31/maio,Domingo Segunda Terça Quinta Sexta Domingo Segunda Terça Quarta Quinta
+Guarulhos,16:40,18:15,Chapecó,01/maio - 31/maio,Sexta Domingo
+Guarulhos,19:30,21:05,Chapecó,01/maio - 31/maio,Terça Quinta Sábado Domingo
+Goiânia,00:05,02:10,Salvador,01/maio - 31/maio,Segunda
+Goiânia,02:35,04:40,Salvador,01/maio - 31/maio,Quinta
+Goiânia,11:30,13:35,Salvador,01/maio - 31/maio,Sexta Sábado Domingo
+João Pessoa,03:05,08:45,Ezeiza,01/maio - 31/maio,Domingo
+João Pessoa,12:05,13:50,Salvador,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Manaus,01:30,02:55,Porto Velho,01/maio - 31/maio,Sexta Sábado
+Manaus,00:05,01:05,Rio Branco,01/maio - 31/maio,Quarta Sexta Domingo
+Manaus,11:45,13:55,Santarém,01/maio - 31/maio,Sexta Domingo
+Maceió,01:10,02:05,João Pessoa,01/maio - 31/maio,Domingo
+Maceió,12:30,13:40,Salvador,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Natal,12:10,13:50,Salvador,01/maio - 31/maio,Sexta Sábado Domingo
+Porto Alegre,10:40,13:55,Salvador,01/maio - 31/maio,Sábado
+Recife,04:45,06:10,Salvador,01/maio - 31/maio,Segunda Terça Sexta Domingo
+Recife,12:30,13:55,Salvador,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+São Luís,11:40,13:55,Salvador,01/maio - 31/maio,Sexta Sábado Domingo
+Salvador,05:10,07:45,Viracopos,01/maio - 31/maio,Domingo
+Salvador,14:40,17:15,Viracopos,01/maio - 31/maio,Sexta Sábado Domingo
+Salvador,01:40,03:20,Vitória,01/maio - 31/maio,Segunda
+Salvador,14:45,16:25,Vitória,01/maio - 31/maio,Sábado
+Salvador,14:50,16:30,Vitória,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Brasília,09:20,13:00,Aeroparque,01/maio - 31/maio,Sexta Sábado
+Confins,09:55,13:20,Aeroparque,01/maio - 31/maio,Quarta
+Confins,12:10,15:30,Aeroparque,01/maio - 31/maio,Sábado
+Florianópolis,05:40,08:00,Aeroparque,01/maio - 31/maio,Segunda Quinta
+Florianópolis,05:40,08:00,Aeroparque,01/maio - 31/maio,Terça Quinta Sábado
+Florianópolis,05:45,08:00,Aeroparque,01/maio - 31/maio,Sábado
+Florianópolis,06:10,08:30,Aeroparque,01/maio - 31/maio,Domingo
+Florianópolis,17:10,19:30,Aeroparque,01/maio - 31/maio,Sexta Sábado Domingo
+Fortaleza,12:55,18:40,Aeroparque,01/maio - 31/maio,Sábado
+Galeão,10:50,14:20,Aeroparque,01/maio - 31/maio,Sexta Sábado Domingo
+Galeão,19:50,23:20,Aeroparque,01/maio - 31/maio,Quarta
+Galeão,22:10,01:40,Aeroparque,01/maio - 31/maio,Domingo Segunda Terça Quarta Quinta
+Guarulhos,06:15,09:20,Aeroparque,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Guarulhos,09:35,12:40,Aeroparque,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Guarulhos,14:15,17:20,Aeroparque,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Guarulhos,17:55,21:00,Aeroparque,01/maio - 31/maio,Sexta Sábado Terça Quinta Sexta Sábado
+Guarulhos,23:10,02:20,Aeroparque,01/maio - 31/maio,Domingo
+Natal,17:50,23:20,Aeroparque,01/maio - 31/maio,Sábado
+Porto Alegre,06:10,08:00,Aeroparque,01/maio - 31/maio,Terça Quinta Sábado
+Recife,02:40,08:00,Aeroparque,01/maio - 31/maio,Quarta
+Recife,12:20,17:40,Aeroparque,01/maio - 31/maio,Sábado
+Salvador,03:25,08:00,Aeroparque,01/maio - 31/maio,Sexta Domingo
+Salvador,15:05,20:00,Aeroparque,01/maio - 31/maio,Sábado
+Congonhas,08:40,11:20,Aracaju,01/maio - 31/maio,Sábado
+Galeão,09:35,11:55,Aracaju,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Guarulhos,16:05,18:40,Aracaju,01/maio - 31/maio,Domingo
+Guarulhos,17:40,20:20,Aracaju,01/maio - 31/maio,Sábado
+Guarulhos,22:50,01:30,Aracaju,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Salvador,15:10,15:55,Aracaju,01/maio - 31/maio,Sexta Sábado Domingo
+Congonhas,11:35,12:45,Araçatuba,01/maio - 31/maio,Segunda Quarta Sexta Domingo
+Guarulhos,09:25,11:40,Assunção,01/maio - 31/maio,Sexta Domingo
+Guarulhos,16:00,21:30,Aruba,01/maio - 31/maio,Sábado
+Brasília,08:55,11:25,Belém,01/maio - 31/maio,Sábado
+Brasília,09:15,11:55,Belém,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Brasília,21:15,23:45,Belém,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Galeão,22:15,01:55,Belém,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Guarulhos,22:40,02:20,Belém,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Macapá,15:05,16:05,Belém,01/maio - 31/maio,Sexta Domingo
+Paramaribo,15:55,17:45,Belém,01/maio - 31/maio,Sábado
+Santarém,02:55,04:15,Belém,01/maio - 31/maio,Sexta Sábado Domingo
+Brasília,08:50,12:19,Bogotá,01/maio - 31/maio,Segunda Quarta Sexta Domingo
+Manaus,19:45,21:35,Bogotá,01/maio - 31/maio,Quarta Domingo
+Congonhas,10:10,12:15,Porto Seguro,01/maio - 31/maio,Sexta Sábado Domingo
+Congonhas,14:30,16:25,Porto Seguro,01/maio - 31/maio,Domingo
+Congonhas,14:50,16:50,Porto Seguro,01/maio - 31/maio,Sexta
+Congonhas,15:10,17:15,Porto Seguro,01/maio - 31/maio,Sexta
+Congonhas,19:35,21:30,Porto Seguro,01/maio - 31/maio,Sábado
+Confins,06:40,08:00,Porto Seguro,01/maio - 31/maio,Domingo
+Confins,12:25,13:50,Porto Seguro,01/maio - 31/maio,Sexta Sábado
+Confins,19:25,20:45,Porto Seguro,01/maio - 31/maio,Sábado
+Confins,20:55,22:15,Porto Seguro,01/maio - 31/maio,Domingo
+Ezeiza,03:40,07:30,Porto Seguro,01/maio - 31/maio,Domingo
+Guarulhos,08:55,10:50,Porto Seguro,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Guarulhos,16:20,18:20,Porto Seguro,01/maio - 31/maio,Sexta Domingo
+Salvador,15:00,16:00,Porto Seguro,01/maio - 31/maio,Sábado
+Boa Vista,01:20,06:05,Brasília,01/maio - 31/maio,Segunda Terça Quinta Sábado
+Cuiabá,05:00,07:40,Brasília,01/maio - 31/maio,Sexta Sábado
+Cuiabá,17:20,20:00,Brasília,01/maio - 31/maio,Terça Quinta Sábado
+Congonhas,06:00,07:55,Brasília,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Congonhas,06:30,08:25,Brasília,01/maio - 31/maio,Sexta Segunda Terça Quarta Quinta
+Congonhas,08:00,09:55,Brasília,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Congonhas,09:15,11:10,Brasília,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Congonhas,11:40,13:30,Brasília,01/maio - 31/maio,Sexta
+Congonhas,14:10,16:00,Brasília,01/maio - 31/maio,Domingo
+Congonhas,14:50,16:40,Brasília,01/maio - 31/maio,Sexta Segunda Terça Quarta Quinta
+Congonhas,16:10,18:00,Brasília,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Congonhas,17:00,18:55,Brasília,01/maio - 31/maio,Sexta Domingo
+Congonhas,17:55,19:50,Brasília,01/maio - 31/maio,Sábado Domingo
+Congonhas,18:20,20:15,Brasília,01/maio - 31/maio,Sexta
+Congonhas,19:20,21:15,Brasília,01/maio - 31/maio,Sábado
+Congonhas,19:45,21:40,Brasília,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Confins,06:35,07:50,Brasília,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Confins,19:00,20:20,Brasília,01/maio - 31/maio,Sexta Domingo
+Cancun,20:40,06:35,Brasília,01/maio - 31/maio,Terça Sábado
+Curitiba,06:00,08:00,Brasília,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Curitiba,17:55,19:55,Brasília,01/maio - 31/maio,Sexta Domingo
+Ezeiza,03:40,07:15,Brasília,01/maio - 31/maio,Terça Quinta
+Florianópolis,05:40,08:00,Brasília,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Fortaleza,04:40,07:20,Brasília,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Fortaleza,17:15,20:00,Brasília,01/maio - 31/maio,Sexta Domingo
+Galeão,01:05,02:55,Brasília,01/maio - 31/maio,Segunda
+Galeão,02:50,04:40,Brasília,01/maio - 31/maio,Quinta
+Galeão,06:05,07:55,Brasília,01/maio - 31/maio,Sexta Sábado Domingo
+Galeão,07:05,08:55,Brasília,01/maio - 31/maio,Domingo
+Galeão,11:05,13:00,Brasília,01/maio - 31/maio,Sexta Sábado Domingo
+Galeão,15:20,17:10,Brasília,01/maio - 31/maio,Terça Quarta Sexta
+Galeão,15:45,17:35,Brasília,01/maio - 31/maio,Domingo
+Galeão,18:15,20:05,Brasília,01/maio - 31/maio,Sexta
+Galeão,19:45,21:35,Brasília,01/maio - 31/maio,Terça Sexta Sábado Domingo
+Galeão,21:00,22:50,Brasília,01/maio - 31/maio,Sábado Domingo
+Guarulhos,06:00,07:45,Brasília,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Guarulhos,08:50,10:35,Brasília,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Guarulhos,13:10,15:00,Brasília,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Guarulhos,16:45,18:35,Brasília,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Guarulhos,21:40,23:25,Brasília,01/maio - 31/maio,Sexta Domingo
+Goiânia,06:55,07:40,Brasília,01/maio - 31/maio,Domingo
+Goiânia,18:45,19:35,Brasília,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+João Pessoa,17:10,19:50,Brasília,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Marabá,04:15,06:15,Brasília,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Manaus,03:15,07:15,Brasília,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Manaus,15:50,19:45,Brasília,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Orlando,21:10,06:05,Brasília,01/maio - 31/maio,Sexta Sábado Domingo
+Maceió,04:50,07:15,Brasília,01/maio - 31/maio,Sexta
+Maceió,04:50,07:15,Brasília,01/maio - 31/maio,Domingo
+Maceió,05:30,07:55,Brasília,01/maio - 31/maio,Segunda Quarta Sábado Domingo
+Maceió,13:35,16:00,Brasília,01/maio - 31/maio,Sábado
+Maceió,17:00,19:30,Brasília,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Miami,22:35,07:15,Brasília,01/maio - 31/maio,Sexta Sábado Domingo
+Natal,05:10,08:00,Brasília,01/maio - 31/maio,Domingo
+Natal,17:15,20:00,Brasília,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Palmas,06:40,08:00,Brasília,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Porto Alegre,05:10,07:40,Brasília,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Porto Alegre,17:05,19:35,Brasília,01/maio - 31/maio,Sexta
+Porto Alegre,17:30,20:05,Brasília,01/maio - 31/maio,Domingo
+Porto Velho,03:35,07:30,Brasília,01/maio - 31/maio,Sexta Sábado
+Rio Branco,01:50,07:10,Brasília,01/maio - 31/maio,Quarta Sexta Domingo
+Rio Branco,14:40,20:00,Brasília,01/maio - 31/maio,Segunda Quarta Sexta Domingo
+Recife,05:10,07:45,Brasília,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Recife,17:05,19:45,Brasília,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Santos Dumont,06:00,07:55,Brasília,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Santos Dumont,09:35,11:25,Brasília,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Santos Dumont,11:35,13:20,Brasília,01/maio - 31/maio,Sexta Sábado Domingo
+Santos Dumont,13:35,15:20,Brasília,01/maio - 31/maio,Quinta
+Santos Dumont,15:05,16:50,Brasília,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Santos Dumont,17:40,19:30,Brasília,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Santos Dumont,20:30,22:20,Brasília,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+São Luís,17:35,20:05,Brasília,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Salvador,06:00,07:55,Brasília,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Salvador,14:10,16:05,Brasília,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Salvador,17:50,19:50,Brasília,01/maio - 31/maio,Sexta Sábado Domingo
+Salvador,19:05,21:05,Brasília,01/maio - 31/maio,Quinta
+Teresina,04:20,06:35,Brasília,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Viracopos,17:55,19:30,Brasília,01/maio - 31/maio,Sexta Sábado Domingo
+Congonhas,10:55,12:00,Bonito,01/maio - 31/maio,Sábado
+Congonhas,11:15,12:15,Bonito,01/maio - 31/maio,Terça
+Guarulhos,08:55,10:35,Cascavel,01/maio - 31/maio,Domingo
+Guarulhos,17:35,19:15,Cascavel,01/maio - 31/maio,Sexta
+Guarulhos,18:05,19:40,Cascavel,01/maio - 31/maio,Sexta
+Congonhas,15:05,16:20,Cuiabá,01/maio - 31/maio,Sexta
+Congonhas,15:45,17:05,Cuiabá,01/maio - 31/maio,Sábado Domingo
+Galeão,02:00,04:00,Cuiabá,01/maio - 31/maio,Quinta
+Galeão,14:40,16:40,Cuiabá,01/maio - 31/maio,Terça Quinta Sábado
+Guarulhos,00:05,01:30,Cuiabá,01/maio - 31/maio,Sábado
+Guarulhos,08:25,09:40,Cuiabá,01/maio - 31/maio,Sexta Sábado Domingo
+Guarulhos,23:10,00:35,Cuiabá,01/maio - 31/maio,Segunda Quarta
+Guarulhos,23:40,01:05,Cuiabá,01/maio - 31/maio,Terça Quinta Domingo
+Campo Grande,13:25,16:10,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo
+Caldas Novas,13:25,14:55,Congonhas,01/maio - 31/maio,Quinta
+Caldas Novas,14:30,16:05,Congonhas,01/maio - 31/maio,Domingo
+Confins,06:55,08:20,Congonhas,01/maio - 31/maio,Sexta Sábado
+Confins,08:05,09:30,Congonhas,01/maio - 31/maio,Sábado
+Confins,08:10,09:30,Congonhas,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Confins,08:45,10:05,Congonhas,01/maio - 31/maio,Sexta Sábado
+Confins,09:20,10:40,Congonhas,01/maio - 31/maio,Domingo
+Confins,10:20,11:40,Congonhas,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Confins,11:05,12:35,Congonhas,01/maio - 31/maio,Sexta Sábado
+Confins,12:10,13:35,Congonhas,01/maio - 31/maio,Domingo
+Confins,16:25,17:55,Congonhas,01/maio - 31/maio,Segunda Terça Quarta Quinta
+Confins,16:30,17:55,Congonhas,01/maio - 31/maio,Sábado
+Confins,17:15,18:35,Congonhas,01/maio - 31/maio,Sexta
+Confins,17:35,18:55,Congonhas,01/maio - 31/maio,Domingo
+Confins,18:05,19:25,Congonhas,01/maio - 31/maio,Domingo
+Confins,18:55,20:15,Congonhas,01/maio - 31/maio,Quarta
+Confins,19:30,20:50,Congonhas,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Curitiba,07:05,08:10,Congonhas,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Curitiba,09:00,10:00,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo
+Curitiba,09:55,11:00,Congonhas,01/maio - 31/maio,Domingo
+Curitiba,10:20,11:30,Congonhas,01/maio - 31/maio,Sexta Segunda Terça Quarta Quinta
+Curitiba,11:20,12:25,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Curitiba,12:35,13:35,Congonhas,01/maio - 31/maio,Sexta Segunda Terça Quarta Quinta
+Curitiba,14:55,16:05,Congonhas,01/maio - 31/maio,Sexta Domingo
+Curitiba,18:30,19:35,Congonhas,01/maio - 31/maio,Quarta Domingo
+Curitiba,19:10,20:15,Congonhas,01/maio - 31/maio,Segunda Terça Quinta Sexta
+Curitiba,20:25,21:25,Congonhas,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Curitiba,21:00,22:10,Congonhas,01/maio - 31/maio,Sexta Domingo
+Caxias do Sul,13:10,14:40,Congonhas,01/maio - 31/maio,Terça
+Caxias do Sul,13:45,15:20,Congonhas,01/maio - 31/maio,Segunda Quarta Quinta Sexta
+Caxias do Sul,14:05,15:40,Congonhas,01/maio - 31/maio,Domingo
+Florianópolis,06:00,07:10,Congonhas,01/maio - 31/maio,Sexta
+Florianópolis,06:15,07:20,Congonhas,01/maio - 31/maio,Sábado
+Florianópolis,08:10,09:15,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo
+Florianópolis,09:15,10:20,Congonhas,01/maio - 31/maio,Sábado
+Florianópolis,09:15,10:20,Congonhas,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Florianópolis,12:30,13:45,Congonhas,01/maio - 31/maio,Sexta Domingo
+Florianópolis,13:50,14:55,Congonhas,01/maio - 31/maio,Domingo
+Florianópolis,15:30,16:45,Congonhas,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Florianópolis,18:35,19:50,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Florianópolis,19:55,21:10,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Fortaleza,02:40,06:05,Congonhas,01/maio - 31/maio,Sexta Sábado
+Fortaleza,04:25,07:50,Congonhas,01/maio - 31/maio,Domingo
+Fortaleza,14:20,18:00,Congonhas,01/maio - 31/maio,Sexta
+Fortaleza,15:20,19:05,Congonhas,01/maio - 31/maio,Domingo
+Fortaleza,16:50,20:35,Congonhas,01/maio - 31/maio,Sábado
+Galeão,08:55,10:15,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Galeão,12:45,14:05,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Galeão,16:15,17:35,Congonhas,01/maio - 31/maio,Sexta Domingo
+Galeão,18:40,20:00,Congonhas,01/maio - 31/maio,Domingo
+Galeão,19:20,20:40,Congonhas,01/maio - 31/maio,Domingo
+Galeão,20:30,21:50,Congonhas,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Goiânia,06:15,08:00,Congonhas,01/maio - 31/maio,Sexta Sábado
+Goiânia,08:40,10:25,Congonhas,01/maio - 31/maio,Domingo
+Goiânia,09:20,11:00,Congonhas,01/maio - 31/maio,Sexta
+Goiânia,09:35,11:20,Congonhas,01/maio - 31/maio,Sábado
+Goiânia,11:55,13:40,Congonhas,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Goiânia,17:10,18:50,Congonhas,01/maio - 31/maio,Sexta
+Goiânia,18:35,20:15,Congonhas,01/maio - 31/maio,Domingo
+Goiânia,19:05,20:45,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Foz do Iguaçu,14:30,16:15,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo
+Ilhéus,14:15,16:30,Congonhas,01/maio - 31/maio,Sábado
+Zona da Mata,13:25,14:40,Congonhas,01/maio - 31/maio,Segunda Quarta Sexta
+Zona da Mata,15:00,16:20,Congonhas,01/maio - 31/maio,Domingo
+Joinville,06:25,07:30,Congonhas,01/maio - 31/maio,Sexta Sábado
+Joinville,13:25,14:40,Congonhas,01/maio - 31/maio,Quinta
+Joinville,13:45,14:50,Congonhas,01/maio - 31/maio,Sábado Domingo
+João Pessoa,17:45,21:15,Congonhas,01/maio - 31/maio,Sábado
+Londrina,12:50,14:05,Congonhas,01/maio - 31/maio,Domingo
+Londrina,14:40,15:55,Congonhas,01/maio - 31/maio,Sexta Segunda Terça Quarta Quinta
+Maceió,03:35,06:40,Congonhas,01/maio - 31/maio,Sexta Sábado
+Maceió,13:10,16:05,Congonhas,01/maio - 31/maio,Sábado
+Maceió,18:45,21:50,Congonhas,01/maio - 31/maio,Sábado
+Maringá,15:20,16:40,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo
+Montes Claros,16:20,18:00,Congonhas,01/maio - 31/maio,Domingo
+Montes Claros,16:40,18:20,Congonhas,01/maio - 31/maio,Sexta Segunda Terça Quarta Quinta
+Navegantes,09:45,10:50,Congonhas,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Navegantes,11:55,13:00,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Navegantes,16:20,17:25,Congonhas,01/maio - 31/maio,Sexta Domingo
+Navegantes,16:30,17:35,Congonhas,01/maio - 31/maio,Sábado
+Navegantes,18:00,19:10,Congonhas,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Navegantes,19:20,20:30,Congonhas,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Porto Alegre,07:00,08:35,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Porto Alegre,08:05,09:35,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Porto Alegre,09:15,10:55,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Porto Alegre,10:40,12:15,Congonhas,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Porto Alegre,11:35,13:15,Congonhas,01/maio - 31/maio,Sexta Domingo
+Porto Alegre,12:20,14:00,Congonhas,01/maio - 31/maio,Sábado Domingo
+Porto Alegre,12:35,14:10,Congonhas,01/maio - 31/maio,Sexta Segunda Terça Quarta Quinta
+Porto Alegre,14:05,15:40,Congonhas,01/maio - 31/maio,Sexta Domingo
+Porto Alegre,16:20,18:00,Congonhas,01/maio - 31/maio,Sábado
+Porto Alegre,18:40,20:15,Congonhas,01/maio - 31/maio,Sexta
+Porto Alegre,19:05,20:40,Congonhas,01/maio - 31/maio,Domingo
+Porto Alegre,20:30,22:05,Congonhas,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Presidente Prudente,14:05,15:15,Congonhas,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Ribeirão Preto,10:00,11:05,Congonhas,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Ribeirão Preto,18:40,19:40,Congonhas,01/maio - 31/maio,Sexta Domingo
+Recife,02:55,06:15,Congonhas,01/maio - 31/maio,Quarta Sexta
+Recife,03:50,07:10,Congonhas,01/maio - 31/maio,Domingo
+Recife,05:10,08:30,Congonhas,01/maio - 31/maio,Sábado
+Recife,06:25,09:50,Congonhas,01/maio - 31/maio,Domingo
+Recife,06:30,09:45,Congonhas,01/maio - 31/maio,Sexta
+Recife,07:50,11:10,Congonhas,01/maio - 31/maio,Domingo
+Recife,10:50,14:15,Congonhas,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Recife,18:45,22:10,Congonhas,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Santos Dumont,06:15,07:20,Congonhas,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Santos Dumont,06:50,08:00,Congonhas,01/maio - 31/maio,Sexta
+Santos Dumont,06:55,08:00,Congonhas,01/maio - 31/maio,Sábado
+Santos Dumont,06:55,08:00,Congonhas,01/maio - 31/maio,Sábado Domingo
+Santos Dumont,07:55,09:05,Congonhas,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Santos Dumont,08:20,09:30,Congonhas,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Santos Dumont,08:55,10:05,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Santos Dumont,09:25,10:35,Congonhas,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Santos Dumont,09:55,11:05,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Santos Dumont,10:25,11:30,Congonhas,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Santos Dumont,11:05,12:15,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Santos Dumont,12:00,13:05,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Santos Dumont,12:30,13:40,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Santos Dumont,13:05,14:15,Congonhas,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Santos Dumont,13:35,14:40,Congonhas,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Santos Dumont,14:15,15:25,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Santos Dumont,14:45,15:55,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Santos Dumont,15:45,16:55,Congonhas,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Santos Dumont,16:30,17:35,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Santos Dumont,17:00,18:10,Congonhas,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Santos Dumont,17:35,18:45,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Santos Dumont,18:00,19:10,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Santos Dumont,18:35,19:40,Congonhas,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Santos Dumont,19:20,20:30,Congonhas,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Santos Dumont,20:15,21:25,Congonhas,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Santos Dumont,20:45,21:55,Congonhas,01/maio - 31/maio,Sexta Domingo
+São José do Rio Preto,05:05,06:15,Congonhas,01/maio - 31/maio,Segunda Terça Quinta Sábado
+São José do Rio Preto,12:40,13:50,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo
+Salvador,06:00,08:35,Congonhas,01/maio - 31/maio,Quarta Quinta Domingo
+Salvador,06:00,08:35,Congonhas,01/maio - 31/maio,Segunda Terça Sexta Sábado
+Salvador,07:00,09:35,Congonhas,01/maio - 31/maio,Sexta Domingo
+Salvador,07:20,09:55,Congonhas,01/maio - 31/maio,Sábado
+Salvador,09:10,11:45,Congonhas,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Salvador,10:15,12:55,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo
+Salvador,11:50,14:30,Congonhas,01/maio - 31/maio,Domingo
+Salvador,12:10,14:50,Congonhas,01/maio - 31/maio,Sexta Segunda Terça Quarta Quinta
+Salvador,14:40,17:20,Congonhas,01/maio - 31/maio,Sexta
+Salvador,15:10,17:50,Congonhas,01/maio - 31/maio,Domingo
+Salvador,16:50,19:25,Congonhas,01/maio - 31/maio,Quarta
+Salvador,17:10,19:40,Congonhas,01/maio - 31/maio,Sábado Domingo
+Salvador,18:45,21:15,Congonhas,01/maio - 31/maio,Sábado
+Salvador,19:40,22:15,Congonhas,01/maio - 31/maio,Sexta Domingo
+Uberaba,13:30,14:50,Congonhas,01/maio - 31/maio,Terça Quinta
+Uberaba,14:30,15:50,Congonhas,01/maio - 31/maio,Domingo
+Uberlândia,15:20,16:40,Congonhas,01/maio - 31/maio,Sexta
+Uberlândia,15:55,17:15,Congonhas,01/maio - 31/maio,Domingo
+Vitória,06:55,08:40,Congonhas,01/maio - 31/maio,Sexta Sábado Domingo
+Vitória,08:35,10:20,Congonhas,01/maio - 31/maio,Sábado
+Vitória,11:00,12:45,Congonhas,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Vitória,16:05,17:45,Congonhas,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Chapecó,15:30,17:10,Congonhas,01/maio - 31/maio,Sexta Domingo
+Guarulhos,08:40,09:30,Campo Grande,01/maio - 31/maio,Segunda Quarta Sexta
+Guarulhos,08:55,09:40,Campo Grande,01/maio - 31/maio,Domingo
+Guarulhos,14:50,15:45,Campo Grande,01/maio - 31/maio,Sexta
+Guarulhos,15:50,16:45,Campo Grande,01/maio - 31/maio,Sábado Domingo
+Guarulhos,17:40,18:30,Campo Grande,01/maio - 31/maio,Sexta
+Confins,10:05,12:30,Carajás,01/maio - 31/maio,Domingo
+Confins,11:30,14:00,Carajás,01/maio - 31/maio,Segunda Terça Quinta Sexta
+Galeão,04:05,05:10,Confins,01/maio - 31/maio,Segunda Quinta
+Galeão,06:20,07:25,Confins,01/maio - 31/maio,Sexta Domingo
+Galeão,07:30,08:35,Confins,01/maio - 31/maio,Domingo
+Galeão,07:35,08:40,Confins,01/maio - 31/maio,Sexta
+Galeão,08:00,09:05,Confins,01/maio - 31/maio,Sábado
+Galeão,19:00,20:05,Confins,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Galeão,21:05,22:20,Confins,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Guarulhos,09:05,10:20,Confins,01/maio - 31/maio,Sexta Sábado Domingo
+Guarulhos,09:10,10:25,Confins,01/maio - 31/maio,Sábado
+Guarulhos,13:25,14:45,Confins,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Guarulhos,16:55,18:15,Confins,01/maio - 31/maio,Sexta Sábado Domingo
+Guarulhos,21:20,22:40,Confins,01/maio - 31/maio,Domingo
+Guarulhos,23:05,00:25,Confins,01/maio - 31/maio,Sexta
+Salvador,13:00,14:45,Confins,01/maio - 31/maio,Segunda Quinta Sábado
+Salvador,15:05,16:50,Confins,01/maio - 31/maio,Domingo
+Salvador,17:05,18:50,Confins,01/maio - 31/maio,Sexta Sábado Segunda Quarta Sexta Sábado
+Galeão,21:30,01:20,Córdova,01/maio - 31/maio,Domingo
+Guarulhos,00:05,03:30,Córdova,01/maio - 31/maio,Quinta
+Guarulhos,23:50,03:25,Córdova,01/maio - 31/maio,Segunda Quarta Sexta
+Recife,18:15,00:05,Córdova,01/maio - 31/maio,Sábado
+Salvador,23:55,01:10,Campina Grande,01/maio - 31/maio,Segunda Quinta Sexta Domingo
+Galeão,03:40,05:10,Curitiba,01/maio - 31/maio,Segunda Quinta
+Galeão,06:35,08:10,Curitiba,01/maio - 31/maio,Domingo
+Galeão,07:45,09:20,Curitiba,01/maio - 31/maio,Sexta Domingo
+Galeão,08:20,09:55,Curitiba,01/maio - 31/maio,Sábado
+Galeão,11:50,13:20,Curitiba,01/maio - 31/maio,Domingo
+Galeão,12:20,13:50,Curitiba,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Galeão,16:55,18:25,Curitiba,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Galeão,21:50,23:25,Curitiba,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Guarulhos,09:30,10:35,Curitiba,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Guarulhos,13:05,14:10,Curitiba,01/maio - 31/maio,Sexta Sábado Domingo
+Guarulhos,16:55,18:00,Curitiba,01/maio - 31/maio,Sábado Domingo
+Guarulhos,17:15,18:25,Curitiba,01/maio - 31/maio,Sexta
+Guarulhos,21:55,23:00,Curitiba,01/maio - 31/maio,Sábado
+Guarulhos,22:10,23:20,Curitiba,01/maio - 31/maio,Sexta
+Guarulhos,22:45,23:55,Curitiba,01/maio - 31/maio,Sexta Domingo
+Maringá,05:25,06:20,Curitiba,01/maio - 31/maio,Segunda Terça Quinta Sábado
+Salvador,14:50,17:50,Curitiba,01/maio - 31/maio,Sábado
+Galeão,13:25,15:30,Caxias do Sul,01/maio - 31/maio,Terça Sábado
+Rio Branco,10:40,11:55,Cruzeiro do Sul,01/maio - 31/maio,Segunda Quarta Sexta Domingo
+Florianópolis,15:40,18:10,Ezeiza,01/maio - 31/maio,Sábado
+Florianópolis,22:00,00:20,Ezeiza,01/maio - 31/maio,Quinta Domingo
+Fortaleza,17:45,23:30,Ezeiza,01/maio - 31/maio,Sábado
+Galeão,07:55,11:25,Ezeiza,01/maio - 31/maio,Sexta Sábado Domingo
+Galeão,22:15,01:45,Ezeiza,01/maio - 31/maio,Segunda Quarta
+Guarulhos,08:45,13:45,Fernando de Noronha,01/maio - 31/maio,Segunda Quarta Sexta Sábado
+Recife,11:30,13:45,Fernando de Noronha,01/maio - 31/maio,Domingo
+Recife,12:30,14:45,Fernando de Noronha,01/maio - 31/maio,Terça Quinta Domingo
+Galeão,03:20,05:00,Florianópolis,01/maio - 31/maio,Segunda Quinta
+Galeão,05:40,07:20,Florianópolis,01/maio - 31/maio,Domingo
+Galeão,07:40,09:20,Florianópolis,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Galeão,12:25,14:05,Florianópolis,01/maio - 31/maio,Sexta Sábado Domingo
+Galeão,14:10,15:50,Florianópolis,01/maio - 31/maio,Sábado Domingo
+Galeão,14:30,16:10,Florianópolis,01/maio - 31/maio,Terça Sexta
+Galeão,16:50,18:30,Florianópolis,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Galeão,21:35,23:15,Florianópolis,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Guarulhos,09:05,10:20,Florianópolis,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Guarulhos,13:20,14:35,Florianópolis,01/maio - 31/maio,Sexta Sábado Domingo Terça Quarta Quinta Sexta Sábado
+Guarulhos,17:10,18:30,Florianópolis,01/maio - 31/maio,Domingo
+Guarulhos,17:40,18:55,Florianópolis,01/maio - 31/maio,Segunda
+Guarulhos,22:35,23:55,Florianópolis,01/maio - 31/maio,Sexta Domingo
+Porto Alegre,06:15,07:20,Florianópolis,01/maio - 31/maio,Sábado
+Galeão,07:40,10:50,Fortaleza,01/maio - 31/maio,Sexta Sábado Segunda Quarta Quinta Sexta
+Galeão,12:10,15:20,Fortaleza,01/maio - 31/maio,Sábado
+Galeão,13:10,16:20,Fortaleza,01/maio - 31/maio,Terça Domingo
+Galeão,15:30,18:40,Fortaleza,01/maio - 31/maio,Sexta Domingo
+Galeão,21:40,00:55,Fortaleza,01/maio - 31/maio,Segunda Terça Sexta Domingo
+Galeão,22:15,01:30,Fortaleza,01/maio - 31/maio,Domingo
+Guarulhos,08:25,11:50,Fortaleza,01/maio - 31/maio,Quarta Sexta Sábado
+Guarulhos,08:40,12:05,Fortaleza,01/maio - 31/maio,Terça Quinta Domingo
+Guarulhos,13:45,17:15,Fortaleza,01/maio - 31/maio,Sábado Domingo
+Guarulhos,14:05,17:35,Fortaleza,01/maio - 31/maio,Sexta Segunda Terça Quarta Quinta
+Guarulhos,22:35,02:05,Fortaleza,01/maio - 31/maio,Sexta Domingo
+Orlando,13:25,22:20,Fortaleza,01/maio - 31/maio,Quinta
+Miami,10:05,18:30,Fortaleza,01/maio - 31/maio,Quarta Sábado
+Salvador,14:45,16:35,Fortaleza,01/maio - 31/maio,Sexta Sábado Domingo
+Guarulhos,16:55,18:55,Santo Angelo,01/maio - 31/maio,Terça Quinta Sábado
+Guarulhos,00:05,01:20,Galeão,01/maio - 31/maio,Segunda
+Guarulhos,06:05,07:10,Galeão,01/maio - 31/maio,Sexta Sábado Domingo
+Guarulhos,08:25,09:25,Galeão,01/maio - 31/maio,Terça Quinta
+Guarulhos,08:50,09:55,Galeão,01/maio - 31/maio,Sábado
+Guarulhos,09:00,10:05,Galeão,01/maio - 31/maio,Domingo
+Guarulhos,09:10,10:15,Galeão,01/maio - 31/maio,Sexta Segunda Terça Quarta Quinta
+Guarulhos,14:00,15:05,Galeão,01/maio - 31/maio,Sexta Domingo
+Guarulhos,18:00,19:05,Galeão,01/maio - 31/maio,Segunda Quarta Sábado Domingo
+Guarulhos,18:35,19:40,Galeão,01/maio - 31/maio,Terça Quinta Sexta
+Guarulhos,20:00,21:10,Galeão,01/maio - 31/maio,Sexta
+Guarulhos,21:15,22:25,Galeão,01/maio - 31/maio,Terça Quarta Quinta
+Guarulhos,21:50,23:00,Galeão,01/maio - 31/maio,Domingo
+Guarulhos,22:30,23:40,Galeão,01/maio - 31/maio,Segunda Sexta Domingo
+Goiânia,05:10,06:55,Galeão,01/maio - 31/maio,Domingo
+Goiânia,05:15,07:00,Galeão,01/maio - 31/maio,Sexta Sábado
+Goiânia,14:15,16:00,Galeão,01/maio - 31/maio,Domingo
+Goiânia,18:20,20:05,Galeão,01/maio - 31/maio,Sexta Segunda Terça Quarta Quinta
+Foz do Iguaçu,04:45,06:40,Galeão,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Foz do Iguaçu,10:20,12:35,Galeão,01/maio - 31/maio,Sexta Domingo
+Foz do Iguaçu,10:40,12:55,Galeão,01/maio - 31/maio,Sábado
+João Pessoa,03:45,06:50,Galeão,01/maio - 31/maio,Sexta Sábado Segunda Terça Quinta Sexta
+João Pessoa,11:20,14:25,Galeão,01/maio - 31/maio,Sábado Domingo Segunda Terça Quarta Sexta
+Manaus,01:45,06:50,Galeão,01/maio - 31/maio,Sábado Segunda Terça Quarta Quinta
+Maceió,11:00,13:40,Galeão,01/maio - 31/maio,Sexta Sábado Domingo
+Maceió,17:05,19:50,Galeão,01/maio - 31/maio,Sábado
+Maceió,17:55,20:35,Galeão,01/maio - 31/maio,Sexta Domingo
+Montevidéu,02:30,05:10,Galeão,01/maio - 31/maio,Segunda Quarta Sexta
+Montevidéu,18:55,21:40,Galeão,01/maio - 31/maio,Sábado
+Natal,03:30,06:45,Galeão,01/maio - 31/maio,Sexta Sábado
+Natal,06:40,09:55,Galeão,01/maio - 31/maio,Domingo
+Natal,11:30,14:45,Galeão,01/maio - 31/maio,Sábado
+Navegantes,09:45,11:10,Galeão,01/maio - 31/maio,Domingo
+Navegantes,10:15,11:40,Galeão,01/maio - 31/maio,Sexta Sábado
+Navegantes,19:15,20:40,Galeão,01/maio - 31/maio,Domingo
+Navegantes,21:30,22:55,Galeão,01/maio - 31/maio,Sexta Segunda Terça Quarta Quinta
+Porto Alegre,05:00,06:55,Galeão,01/maio - 31/maio,Sexta Sábado
+Porto Alegre,07:00,09:00,Galeão,01/maio - 31/maio,Domingo
+Porto Alegre,08:45,10:40,Galeão,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Porto Alegre,10:35,12:30,Galeão,01/maio - 31/maio,Sexta Sábado Domingo
+Porto Alegre,17:05,19:00,Galeão,01/maio - 31/maio,Sábado Domingo
+Porto Alegre,17:15,19:15,Galeão,01/maio - 31/maio,Sábado
+Porto Alegre,17:25,19:25,Galeão,01/maio - 31/maio,Segunda Terça Sexta
+Porto Alegre,19:25,21:25,Galeão,01/maio - 31/maio,Sexta Domingo
+Porto Alegre,20:20,22:15,Galeão,01/maio - 31/maio,Domingo
+Porto Alegre,21:05,23:00,Galeão,01/maio - 31/maio,Segunda Quinta Sexta
+Porto Alegre,22:10,00:10,Galeão,01/maio - 31/maio,Domingo
+Porto Alegre,22:25,00:20,Galeão,01/maio - 31/maio,Terça
+Porto Alegre,22:45,00:40,Galeão,01/maio - 31/maio,Quarta
+Recife,03:05,06:00,Galeão,01/maio - 31/maio,Domingo
+Recife,04:00,06:55,Galeão,01/maio - 31/maio,Sexta Sábado
+Recife,12:30,15:25,Galeão,01/maio - 31/maio,Segunda Quarta Sexta Sábado
+Recife,15:25,18:20,Galeão,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Recife,17:10,20:05,Galeão,01/maio - 31/maio,Sexta Sábado Domingo
+Recife,22:55,01:50,Galeão,01/maio - 31/maio,Domingo
+Rosário,03:00,05:50,Galeão,01/maio - 31/maio,Quarta Sexta Domingo
+São José dos Campos,06:00,07:05,Galeão,01/maio - 31/maio,Segunda Quinta Sábado
+Salvador,00:15,02:25,Galeão,01/maio - 31/maio,Segunda
+Salvador,02:50,05:00,Galeão,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Salvador,04:50,07:00,Galeão,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Salvador,10:55,13:05,Galeão,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Salvador,11:40,13:45,Galeão,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Salvador,14:35,16:45,Galeão,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Salvador,19:00,21:15,Galeão,01/maio - 31/maio,Sexta Sábado Domingo
+Viracopos,05:30,06:50,Galeão,01/maio - 31/maio,Domingo
+Viracopos,09:45,11:05,Galeão,01/maio - 31/maio,Sexta Sábado Domingo
+Viracopos,19:05,20:25,Galeão,01/maio - 31/maio,Segunda Quarta Quinta Sexta
+Viracopos,19:45,21:05,Galeão,01/maio - 31/maio,Terça
+Viracopos,20:05,21:25,Galeão,01/maio - 31/maio,Domingo
+Vitória,03:00,04:10,Galeão,01/maio - 31/maio,Domingo
+Vitória,04:30,05:40,Galeão,01/maio - 31/maio,Sexta
+Vitória,04:50,06:00,Galeão,01/maio - 31/maio,Sábado
+Vitória,08:40,09:50,Galeão,01/maio - 31/maio,Sexta Domingo
+Vitória,09:30,10:40,Galeão,01/maio - 31/maio,Sábado
+Vitória,09:50,11:00,Galeão,01/maio - 31/maio,Sábado
+Vitória,15:05,16:15,Galeão,01/maio - 31/maio,Domingo
+Vitória,15:35,16:45,Galeão,01/maio - 31/maio,Sábado
+Vitória,17:10,18:20,Galeão,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Vitória,19:20,20:30,Galeão,01/maio - 31/maio,Sexta Domingo
+Vitória,21:35,22:45,Galeão,01/maio - 31/maio,Domingo
+Vitória,21:35,22:45,Galeão,01/maio - 31/maio,Sexta
+Vitória,23:00,00:10,Galeão,01/maio - 31/maio,Domingo
+Goiânia,06:00,07:50,Guarulhos,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Goiânia,11:25,13:00,Guarulhos,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Goiânia,20:10,21:55,Guarulhos,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Foz do Iguaçu,06:00,07:45,Guarulhos,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Foz do Iguaçu,11:25,13:05,Guarulhos,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Foz do Iguaçu,20:20,22:15,Guarulhos,01/maio - 31/maio,Sexta Domingo
+Ilhéus,12:15,14:20,Guarulhos,01/maio - 31/maio,Sábado
+Ilhéus,18:30,20:40,Guarulhos,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Juazeiro do Norte,05:10,08:10,Guarulhos,01/maio - 31/maio,Sexta Sábado Domingo
+Juazeiro do Norte,12:55,15:55,Guarulhos,01/maio - 31/maio,Sábado
+Juazeiro do Norte,12:55,15:55,Guarulhos,01/maio - 31/maio,Quarta
+Jericoacoara,12:45,16:20,Guarulhos,01/maio - 31/maio,Segunda Quarta Sábado
+João Pessoa,04:15,07:50,Guarulhos,01/maio - 31/maio,Domingo
+João Pessoa,04:55,08:30,Guarulhos,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+João Pessoa,18:10,21:45,Guarulhos,01/maio - 31/maio,Sexta
+João Pessoa,18:25,22:00,Guarulhos,01/maio - 31/maio,Domingo
+Manaus,02:00,07:05,Guarulhos,01/maio - 31/maio,Quarta
+Manaus,02:15,07:25,Guarulhos,01/maio - 31/maio,Sábado Domingo
+Manaus,02:40,07:50,Guarulhos,01/maio - 31/maio,Quinta
+Manaus,13:45,18:40,Guarulhos,01/maio - 31/maio,Sexta
+Manaus,14:30,19:25,Guarulhos,01/maio - 31/maio,Domingo
+Maceió,01:50,04:55,Guarulhos,01/maio - 31/maio,Quinta
+Maceió,03:40,06:45,Guarulhos,01/maio - 31/maio,Sábado Domingo
+Maceió,10:45,13:45,Guarulhos,01/maio - 31/maio,Segunda Terça Quinta
+Maceió,11:15,14:10,Guarulhos,01/maio - 31/maio,Quarta
+Maceió,11:30,14:30,Guarulhos,01/maio - 31/maio,Sexta
+Maceió,12:55,15:55,Guarulhos,01/maio - 31/maio,Sábado Domingo
+Maceió,16:55,19:55,Guarulhos,01/maio - 31/maio,Sexta Domingo
+Maceió,19:15,22:20,Guarulhos,01/maio - 31/maio,Sexta
+Mendoza,14:10,17:20,Guarulhos,01/maio - 31/maio,Terça Quinta Sexta Domingo
+Maringá,06:35,08:00,Guarulhos,01/maio - 31/maio,Sexta Sábado
+Maringá,06:55,08:20,Guarulhos,01/maio - 31/maio,Domingo
+Montevidéu,13:05,15:35,Guarulhos,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Natal,03:25,07:10,Guarulhos,01/maio - 31/maio,Sexta
+Natal,04:15,07:50,Guarulhos,01/maio - 31/maio,Sábado
+Natal,04:50,08:25,Guarulhos,01/maio - 31/maio,Domingo
+Natal,12:50,16:20,Guarulhos,01/maio - 31/maio,Sábado Domingo Segunda Terça Quarta Quinta
+Natal,18:15,21:50,Guarulhos,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Navegantes,06:20,07:45,Guarulhos,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Navegantes,11:10,12:25,Guarulhos,01/maio - 31/maio,Sexta Sábado Domingo
+Navegantes,16:10,17:25,Guarulhos,01/maio - 31/maio,Domingo
+Navegantes,19:05,20:20,Guarulhos,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Sinop,12:00,15:40,Guarulhos,01/maio - 31/maio,Sexta Sábado Domingo
+Pelotas,19:45,21:55,Guarulhos,01/maio - 31/maio,Segunda Quarta Sexta
+Passo Fundo,11:15,12:55,Guarulhos,01/maio - 31/maio,Terça Quinta Sábado
+Petrolina,02:00,04:50,Guarulhos,01/maio - 31/maio,Quarta Sexta
+Petrolina,03:05,05:55,Guarulhos,01/maio - 31/maio,Segunda Terça Quinta
+Petrolina,04:30,07:20,Guarulhos,01/maio - 31/maio,Sábado
+Porto Alegre,06:00,07:50,Guarulhos,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Porto Alegre,11:05,12:50,Guarulhos,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Porto Alegre,13:35,15:20,Guarulhos,01/maio - 31/maio,Sexta Sábado Domingo
+Porto Alegre,18:35,20:20,Guarulhos,01/maio - 31/maio,Segunda Terça Quarta Sexta
+Porto Alegre,20:00,21:50,Guarulhos,01/maio - 31/maio,Domingo
+Porto Alegre,20:35,22:25,Guarulhos,01/maio - 31/maio,Quinta
+Porto Alegre,22:20,00:10,Guarulhos,01/maio - 31/maio,Sexta
+Punta Cana,23:00,07:00,Guarulhos,01/maio - 31/maio,Segunda Quarta Sábado
+Recife,03:50,07:15,Guarulhos,01/maio - 31/maio,Sexta Sábado
+Recife,04:30,07:55,Guarulhos,01/maio - 31/maio,Sexta
+Recife,04:50,08:15,Guarulhos,01/maio - 31/maio,Domingo
+Recife,12:35,15:55,Guarulhos,01/maio - 31/maio,Sábado Segunda Terça Quarta Quinta
+Recife,17:45,21:00,Guarulhos,01/maio - 31/maio,Sexta Domingo
+San Jose,20:25,07:00,Guarulhos,01/maio - 31/maio,Terça Quinta Sábado
+São Luís,03:15,07:00,Guarulhos,01/maio - 31/maio,Sábado
+São Luís,03:15,07:00,Guarulhos,01/maio - 31/maio,Sexta Sábado Domingo
+São Luís,04:05,07:50,Guarulhos,01/maio - 31/maio,Quinta
+Salvador,05:30,08:05,Guarulhos,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Sexta
+Salvador,12:25,14:55,Guarulhos,01/maio - 31/maio,Sábado Domingo Segunda Terça Quarta Quinta
+Salvador,17:25,19:55,Guarulhos,01/maio - 31/maio,Sexta
+Salvador,17:45,20:25,Guarulhos,01/maio - 31/maio,Domingo
+Salvador,18:50,21:20,Guarulhos,01/maio - 31/maio,Sábado
+Teresina,04:55,08:10,Guarulhos,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Vitória da Conquista,06:20,08:25,Guarulhos,01/maio - 31/maio,Sexta Sábado Segunda Terça Quarta Quinta
+Vitória,06:00,07:40,Guarulhos,01/maio - 31/maio,Sexta Sábado
+Vitória,11:05,12:35,Guarulhos,01/maio - 31/maio,Sábado Domingo
+Vitória,11:35,13:05,Guarulhos,01/maio - 31/maio,Sexta Segunda Terça Quarta Quinta
+Vitória,18:50,20:25,Guarulhos,01/maio - 31/maio,Sexta Domingo Segunda Terça Quinta Sexta Domingo
+Chapecó,06:00,07:45,Guarulhos,01/maio - 31/maio,Domingo
+Chapecó,06:25,08:10,Guarulhos,01/maio - 31/maio,Segunda Quarta Sexta
+Chapecó,18:55,20:40,Guarulhos,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Salvador,16:00,18:05,Goiânia,01/maio - 31/maio,Sexta Sábado Domingo
+Salvador,23:00,01:05,Goiânia,01/maio - 31/maio,Domingo
+Salvador,14:45,16:25,João Pessoa,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Porto Velho,23:30,00:50,Manaus,01/maio - 31/maio,Sexta Domingo
+Rio Branco,23:30,02:25,Manaus,01/maio - 31/maio,Terça Quinta Sábado
+Santarém,14:45,15:05,Manaus,01/maio - 31/maio,Sexta Domingo Segunda Terça Quarta Quinta
+Salvador,14:55,16:05,Maceió,01/maio - 31/maio,Sexta Sábado Domingo Segunda Terça Quarta Quinta
+Salvador,14:55,16:30,Natal,01/maio - 31/maio,Sexta Sábado Domingo
+Salvador,14:50,18:40,Porto Alegre,01/maio - 31/maio,Sábado
+Salvador,14:55,16:15,Recife,01/maio - 31/maio,Sexta Sábado Domingo
+Salvador,19:20,20:40,Recife,01/maio - 31/maio,Segunda Quinta Sábado
+Salvador,23:45,01:05,Recife,01/maio - 31/maio,Domingo
+Salvador,14:45,16:55,São Luís,01/maio - 31/maio,Sexta Sábado Domingo
+Viracopos,08:25,11:00,Salvador,01/maio - 31/maio,Domingo
+Viracopos,11:25,13:50,Salvador,01/maio - 31/maio,Sexta Sábado Domingo
+Vitória,11:30,13:05,Salvador,01/maio - 31/maio,Sábado
+Vitória,12:40,14:10,Salvador,01/maio - 31/maio,Sexta Domingo
+Vitória,23:25,01:00,Salvador,01/maio - 31/maio,Domingo

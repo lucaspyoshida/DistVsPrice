@@ -34,3 +34,8 @@ yarn.lock
 
 # Ignore npm debug logs
 npm-debug.log*
+
+__pycache__/
+# Ignore Python bytecode files
+*.pyc
+distvsprice.egg-info/

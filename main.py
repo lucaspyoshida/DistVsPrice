@@ -5,7 +5,7 @@ import pandas as pd
 import time
 from distancia.distancia import achardistancia
 
-voos = pd.read_csv('./malha_aerea_codigos.csv')
+voos = pd.read_csv('./datasets/malha_aerea_codigos.csv')
 filtro_sexta = voos['Frequencia'].str.contains('sexta', case=False, na=False)
 df_sexta = voos[filtro_sexta].copy() 
 df_sexta.loc[:, 'Rota'] = df_sexta['Origem (IATA)'] + '-' + df_sexta['Destino (IATA)']
@@ -35,7 +35,7 @@ def iterar_voos():
             voos['distancia'] = achardistancia(row['Origem (ICAO)'], row['Destino (ICAO)'])
             final.append(voos)
             df_final = pd.DataFrame(final)
-            df_final.to_csv('voos.csv', index=False)
+            df_final.to_csv('./datasets/voos.csv', index=False)
             print(voos)
             time.sleep(5)
         except Exception as e:

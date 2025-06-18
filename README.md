@@ -2,7 +2,7 @@
 Projeto final da disciplina de Extração Automática de Dados na Universidade Federal de Goiás.
  
 
-Ferramenta para coletar e analisar a relação entre a **distância** das rotas aéreas e o **preço** de passagens. O projeto automatiza a busca de voos no Google Flights, calcula a distância entre aeroportos e salva os resultados em `voos.csv` para posterior análise.
+Ferramenta para coletar e analisar a relação entre a **distância** das rotas aéreas e o **preço** de passagens. O projeto automatiza a busca de voos no Google Flights, calcula a distância entre aeroportos e salva os resultados em `datasets/voos.csv` para posterior análise.
 
 ## Instruções de execução
 
@@ -16,7 +16,7 @@ Ferramenta para coletar e analisar a relação entre a **distância** das rotas 
    ```bash
    python main.py
    ```
-   Os resultados serão salvos em `voos.csv`.
+   Os resultados serão salvos em `datasets/voos.csv`.
 
 ## Diagrama resumido do pipeline
 
@@ -34,19 +34,21 @@ graph TD
 
 - `beautifulsoup4`
 - `lxml`
+- `matplotlib`
 - `pandas`
 - `playwright`
 - `protobuf`
 - `requests`
+- `seaborn`
 - `selectolax`
 
 Todas estão listadas em [`pyproject.toml`](./pyproject.toml).
 
 ## Datasets
 
-- [`malha_aerea.csv`](./malha_aerea.csv) – malha aérea utilizada para gerar as rotas.
-- [`malha_aerea_codigos.csv`](./malha_aerea_codigos.csv) – versão com códigos IATA/ICAO.
-- [`voos.csv`](./voos.csv) – resultados obtidos pelo scraper.
+- [`malha_aerea.csv`](./datasets/malha_aerea.csv) – malha aérea utilizada para gerar as rotas.
+- [`malha_aerea_codigos.csv`](./datasets/malha_aerea_codigos.csv) – versão com códigos IATA/ICAO.
+- [`voos.csv`](./datasets/voos.csv) – resultados obtidos pelo scraper.
 
 ## Conformidade e ética
 

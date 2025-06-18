@@ -7,9 +7,11 @@ requires-python = ">=3.11"
 dependencies = [
     "beautifulsoup4>=4.13.4",
     "lxml>=5.4.0",
+    "matplotlib>=3.10.3",
     "pandas>=2.3.0",
     "playwright>=1.52.0",
     "protobuf>=6.31.1",
     "requests>=2.32.4",
+    "seaborn>=0.13.2",
     "selectolax>=0.3.30",
 ]

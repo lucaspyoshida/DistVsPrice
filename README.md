@@ -48,6 +48,7 @@ Todas estão listadas em [`pyproject.toml`](./pyproject.toml).
 
 - [`malha_aerea.csv`](./datasets/malha_aerea.csv) – malha aérea utilizada para gerar as rotas.
 - [`malha_aerea_codigos.csv`](./datasets/malha_aerea_codigos.csv) – versão com códigos IATA/ICAO.
+- [`voos_processado.csv`](./datasets/voos_processado.csv) - dataset limpo com os dados a serem analisados
 - [`voos.csv`](./datasets/voos.csv) – resultados obtidos pelo scraper.
 
 ## Conformidade e ética

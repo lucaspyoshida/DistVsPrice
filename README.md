@@ -20,15 +20,7 @@ Ferramenta para coletar e analisar a relação entre a **distância** das rotas 
 
 ## Diagrama resumido do pipeline
 
-```mermaid
-graph TD
-    A[malha_aerea_codigos.csv] --> B{Filtra rotas únicas}
-    B --> C[criar_url_voo]
-    C --> D[playwright ➜ Google Flights]
-    D --> E[parse_response]
-    E --> F[achardistancia]
-    F --> G[voos.csv]
-```
+![Diagrama da pipeline](pipeline.png)
 
 ## Dependências principais
 
@@ -48,7 +40,7 @@ Todas estão listadas em [`pyproject.toml`](./pyproject.toml).
 
 - [`malha_aerea.csv`](./datasets/malha_aerea.csv) – malha aérea utilizada para gerar as rotas.
 - [`malha_aerea_codigos.csv`](./datasets/malha_aerea_codigos.csv) – versão com códigos IATA/ICAO.
-- [`voos_processado.csv`](./datasets/voos_processado.csv) - dataset limpo com os dados a serem analisados
+- [`voos_processado.csv`](./datasets/voos_processado.csv) - dataset limpo com os dados a serem analisados para os gráficos.
 - [`voos.csv`](./datasets/voos.csv) – resultados obtidos pelo scraper.
 
 ## Conformidade e ética

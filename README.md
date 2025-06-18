@@ -69,6 +69,6 @@ Distribuído sob a licença MIT. As informações da malha aérea foram obtidas 
 
 Os preços são obtidos do **Google Flights** e as distâncias são calculadas a partir de dados de [`flightmanager.com`](https://www.flightmanager.com/).
 
-Parte da lógica de extração do Google Flights foi inspirada no repositório [AWeirdDev/flights](https://github.com/AWeirdDev/flights). 
+A geração de url para busca no Google Flights foi utilizando a lógica existente no repositório [AWeirdDev/flights](https://github.com/AWeirdDev/flights). 
 
 Todas as etapas seguem a LGPD e as permissões públicas de cada serviço.

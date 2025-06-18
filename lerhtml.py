@@ -1,62 +1,57 @@
-from selectolax.lexbor import LexborHTMLParser, LexborNode
-from typing import Optional
-
+from bs4 import BeautifulSoup
+from typing import Optional, List, Dict
 
 
 def parse_response(
-    r: str, *, dangerously_allow_looping_last_item: bool = False
-):
-    class _blank:
-        def text(self, *_, **__):
+    html: str, *, dangerously_allow_looping_last_item: bool = False
+) -> Dict:
+    class _Blank:
+        def get_text(self, *_, **__):
             return ""
 
-        def iter(self):
+        def select(self, *_, **__):
             return []
 
-    blank = _blank()
+    blank = _Blank()                         # Instância única p/ retornos vazios
+    safe = lambda node: node or blank        # Wrapper de segurança
 
-    def safe(n: Optional[LexborNode]):
-        return n or blank
+    soup = BeautifulSoup(html, "lxml")
 
-    parser = LexborHTMLParser(r)
-    flights = []
+    # Seletor dos cartõezinhos de voos (primeiro = “melhor voo”)
+    cards = soup.select('div[jsname="IWWDBc"], div[jsname="YdtKid"]')
+    flights: List[Dict] = []
 
-    for i, fl in enumerate(parser.css('div[jsname="IWWDBc"], div[jsname="YdtKid"]')):
+    for i, card in enumerate(cards):
         is_best_flight = i == 0
 
-        for item in fl.css("ul.Rk10dc li")[
-            : (None if dangerously_allow_looping_last_item or i == 0 else -1)
-        ]:
-            # Flight name
-            name = safe(item.css_first("div.sSHqwe.tPgKwe.ogfYpf span")).text(
-                strip=True
-            )
+        # Cada voo fica em um <li>; às vezes o último é “+ N voos”
+        items = card.select("ul.Rk10dc li")
+        if not dangerously_allow_looping_last_item and not is_best_flight:
+            items = items[:-1]  # descarta último, se existir
 
-            # Get departure & arrival time
-            dp_ar_node = item.css("span.mv1WYe div")
+        for li in items:
+            # Companhia
+            name = safe(li.select_one("div.sSHqwe.tPgKwe.ogfYpf span")) \
+                   .get_text(strip=True)
+
+            # Partida / chegada
+            dp_ar = li.select("span.mv1WYe div")
+            departure_time = dp_ar[0].get_text(strip=True) if len(dp_ar) > 0 else ""
+            arrival_time   = dp_ar[1].get_text(strip=True) if len(dp_ar) > 1 else ""
+
+            # Duração
+            duration = safe(li.select_one("li div.Ak5kof div")).get_text(strip=True)
+
+            # Escalas
+            stops_raw = safe(li.select_one(".BbR8Ec .ogfYpf")).get_text(strip=True)
             try:
-                departure_time = dp_ar_node[0].text(strip=True)
-                arrival_time = dp_ar_node[1].text(strip=True)
-            except IndexError:
-                # sometimes this is not present
-                departure_time = ""
-                arrival_time = ""
-
-
-            # Get duration
-            duration = safe(item.css_first("li div.Ak5kof div")).text()
-
-            # Get flight stops
-            stops = safe(item.css_first(".BbR8Ec .ogfYpf")).text()
-
-            # Get prices
-            price = safe(item.css_first(".YMlIz.FpEdX")).text() or "0"
-
-            # Stops formatting
-            try:
-                stops_fmt = 0 if stops == "Nonstop" else int(stops.split(" ", 1)[0])
+                stops_fmt = 0 if stops_raw == "Nonstop" else int(stops_raw.split(" ", 1)[0])
             except ValueError:
                 stops_fmt = "Unknown"
+
+            # Preço
+            price_raw = safe(li.select_one(".YMlIz.FpEdX")).get_text(strip=True) or "0"
+            price_int = int(price_raw.replace("R$", "").replace(",", "").strip())
 
             flights.append(
                 {
@@ -66,14 +61,13 @@ def parse_response(
                     "arrival": " ".join(arrival_time.split()),
                     "duration": duration,
                     "stops": stops_fmt,
-                    "price": int(price.replace(",", "").replace("R$","")),
+                    "price": price_int,
                 }
             )
 
     if not flights:
-        raise RuntimeError("No flights found:\n{}".format(r.text_markdown))
+        raise RuntimeError("No flights found in supplied HTML.")
 
-
-    menor_preco = min(voo['price'] for voo in flights)
-    voos_menor_preco = [voo for voo in flights if voo['price'] == menor_preco]
-    return voos_menor_preco[0]
+    # Seleciona o(s) voo(s) de menor preço e devolve o primeiro
+    cheapest = min(f["price"] for f in flights)
+    return next(f for f in flights if f["price"] == cheapest)

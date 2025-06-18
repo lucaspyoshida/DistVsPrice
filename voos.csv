@@ -1,31 +1,31 @@
 is_best,cia,departure,arrival,duration,stops,price,origem (IATA),origem (ICAO),origem,destino,destino (ICAO),destino (IATA),distancia
-True,Gol,"3:50 PM on Fri, Sep 19","6:45 PM on Fri, Sep 19",2 hr 55 min,0,1280,AEP,SABE,Aeroparque,Galeão,SBGL,GIG,1968.49
-True,Gol,"10:25 PM on Fri, Sep 19","11:55 PM on Fri, Sep 19",1 hr 30 min,0,1099,AEP,SABE,Aeroparque,Porto Alegre,SBPA,POA,849.38
+True,Gol,"3:50 PM on Fri, Sep 19","6:45 PM on Fri, Sep 19",2 hr 55 min,0,1675,AEP,SABE,Aeroparque,Galeão,SBGL,GIG,1968.49
+True,Gol,"10:25 PM on Fri, Sep 19","11:55 PM on Fri, Sep 19",1 hr 30 min,0,1325,AEP,SABE,Aeroparque,Porto Alegre,SBPA,POA,849.38
 True,Gol,"4:35 PM on Fri, Sep 19","7:00 PM on Fri, Sep 19",2 hr 25 min,0,643,AJU,SBAR,Aracaju,Galeão,SBGL,GIG,1464.15
 True,Gol,"7:55 PM on Fri, Sep 19","10:40 PM on Fri, Sep 19",2 hr 45 min,0,597,AJU,SBAR,Aracaju,Guarulhos,SBGR,GRU,1700.91
 True,Gol,"12:35 PM on Fri, Sep 19","1:25 PM on Fri, Sep 19",50 min,0,329,AJU,SBAR,Aracaju,Salvador,SBSV,SSA,252.55
 True,Gol,"1:40 PM on Fri, Sep 19","2:45 PM on Fri, Sep 19",1 hr 5 min,0,274,ARU,SBAU,Araçatuba,Congonhas,SBSP,CGH,475.71
-True,Gol,"12:30 PM on Fri, Sep 19","2:35 PM on Fri, Sep 19",2 hr 5 min,0,759,ASU,SGAS,Assunção,Guarulhos,SBGR,GRU,1138.12
+True,Gol,"12:30 PM on Fri, Sep 19","2:35 PM on Fri, Sep 19",2 hr 5 min,0,760,ASU,SGAS,Assunção,Guarulhos,SBGR,GRU,1138.12
 True,Gol,"3:15 AM on Fri, Sep 19","6:50 AM on Fri, Sep 19",3 hr 35 min,0,1493,BEL,SBBE,Belém,Galeão,SBGL,GIG,2436.88
 True,Gol,"5:25 PM on Fri, Sep 19","9:05 PM on Fri, Sep 19",3 hr 40 min,0,432,BEL,SBBE,Belém,Guarulhos,SBGR,GRU,2449.25
 True,Gol,"12:35 PM on Fri, Sep 19","1:35 PM on Fri, Sep 19",1 hr,0,373,BEL,SBBE,Belém,Macapá,SBMQ,MCP,329.24
-True,Gol,"11:33 PM on Fri, Sep 19","7:05 AM on Sat, Sep 20",5 hr 32 min,0,1485,BOG,SKBO,Bogotá,Brasília,SBBR,BSB,3677.55
+True,Gol,"11:33 PM on Fri, Sep 19","7:05 AM on Sat, Sep 20",5 hr 32 min,0,1476,BOG,SKBO,Bogotá,Brasília,SBBR,BSB,3677.55
 True,Gol,"2:20 PM on Fri, Sep 19","3:40 PM on Fri, Sep 19",1 hr 20 min,0,833,BPS,SBPS,Porto Seguro,Confins,SBCF,CNF,626.23
 True,Gol,"10:05 PM on Fri, Sep 19","12:40 AM on Sat, Sep 20",3 hr 35 min,0,2632,BSB,SBBR,Brasília,Boa Vista,SBBV,BVB,2501.83
 True,Gol,"8:40 AM on Fri, Sep 19","9:35 AM on Fri, Sep 19",1 hr 55 min,0,324,BSB,SBBR,Brasília,Cuiabá,SBCY,CGB,878.65
 True,Gol,"9:10 PM on Fri, Sep 19","11:35 PM on Fri, Sep 19",2 hr 25 min,0,832,BSB,SBBR,Brasília,Florianópolis,SBFL,FLN,1308.36
 True,Gol,"9:45 AM on Fri, Sep 19","10:40 AM on Fri, Sep 19",55 min,0,1178,BSB,SBBR,Brasília,Goiânia,SBGO,GYN,163.0
-True,Gol,"8:45 AM on Fri, Sep 19","11:25 AM on Fri, Sep 19",2 hr 40 min,0,1462,BSB,SBBR,Brasília,João Pessoa,SBJP,JPA,1711.54
+True,Gol,"8:45 AM on Fri, Sep 19","11:25 AM on Fri, Sep 19",2 hr 40 min,0,1862,BSB,SBBR,Brasília,João Pessoa,SBJP,JPA,1711.54
 True,Gol,"11:10 PM on Fri, Sep 19","1:20 AM on Sat, Sep 20",2 hr 10 min,0,557,BSB,SBBR,Brasília,Marabá,SBMA,MAB,1169.17
-True,Gol,"9:40 AM on Fri, Sep 19","5:05 PM on Fri, Sep 19",8 hr 25 min,0,1961,BSB,SBBR,Brasília,Orlando,KMCO,MCO,6078.96
-True,Gol,"10:10 AM on Fri, Sep 19","5:20 PM on Fri, Sep 19",8 hr 10 min,0,1658,BSB,SBBR,Brasília,Miami,KMIA,MIA,5791.75
+True,Gol,"9:40 AM on Fri, Sep 19","5:05 PM on Fri, Sep 19",8 hr 25 min,0,1949,BSB,SBBR,Brasília,Orlando,KMCO,MCO,6078.96
+True,Gol,"10:10 AM on Fri, Sep 19","5:20 PM on Fri, Sep 19",8 hr 10 min,0,1648,BSB,SBBR,Brasília,Miami,KMIA,MIA,5791.75
 True,Gol,"8:45 AM on Fri, Sep 19","11:30 AM on Fri, Sep 19",2 hr 45 min,0,3294,BSB,SBBR,Brasília,Natal,SBSG,NAT,1768.55
 True,Gol,"8:50 PM on Fri, Sep 19","10:15 PM on Fri, Sep 19",1 hr 25 min,0,1151,BSB,SBBR,Brasília,Palmas,SBPJ,PMW,619.05
 True,Gol,"8:55 PM on Fri, Sep 19","10:50 PM on Fri, Sep 19",2 hr 55 min,0,1881,BSB,SBBR,Brasília,Porto Velho,SBPV,PVH,1908.91
 True,Gol,"8:40 AM on Fri, Sep 19","10:00 AM on Fri, Sep 19",3 hr 20 min,0,2125,BSB,SBBR,Brasília,Rio Branco,SBRB,RBR,2266.07
 True,Gol,"9:20 PM on Fri, Sep 19","11:45 PM on Fri, Sep 19",2 hr 25 min,0,903,BSB,SBBR,Brasília,São Luís,SBSL,SLZ,1523.63
 True,Gol,"10:40 PM on Fri, Sep 19","12:55 AM on Sat, Sep 20",2 hr 15 min,0,1074,BSB,SBBR,Brasília,Teresina,SBTE,THE,1318.98
-True,Gol,"9:00 AM on Fri, Sep 19","10:40 AM on Fri, Sep 19",1 hr 40 min,0,95,BSB,SBBR,Brasília,Viracopos,SBKP,VCP,794.44
+True,Gol,"9:00 AM on Fri, Sep 19","10:40 AM on Fri, Sep 19",1 hr 40 min,0,454,BSB,SBBR,Brasília,Viracopos,SBKP,VCP,794.44
 True,Gol,"11:20 AM on Fri, Sep 19","12:55 PM on Fri, Sep 19",1 hr 35 min,0,325,CAC,SBCA,Cascavel,Guarulhos,SBGR,GRU,734.51
 True,Gol,"10:35 AM on Fri, Sep 19","1:50 PM on Fri, Sep 19",2 hr 15 min,0,627,CGB,SBCY,Cuiabá,Congonhas,SBSP,CGH,1327.36
 True,Gol,"12:00 PM on Fri, Sep 19","12:45 PM on Fri, Sep 19",1 hr 45 min,0,374,CGH,SBSP,Congonhas,Campo Grande,SBCG,CGR,897.84
@@ -43,52 +43,51 @@ True,Gol,"10:35 AM on Fri, Sep 19","12:20 PM on Fri, Sep 19",1 hr 45 min,0,540,C
 True,Gol,"3:10 AM on Fri, Sep 19","4:35 AM on Fri, Sep 19",1 hr 25 min,0,442,CPV,SBKG,Campina Grande,Salvador,SBSV,SSA,678.19
 True,Gol,"10:50 PM on Fri, Sep 19","11:55 PM on Fri, Sep 19",1 hr 5 min,0,330,CWB,SBCT,Curitiba,Maringá,SBMG,MGF,366.98
 True,Gol,"12:35 PM on Fri, Sep 19","1:50 PM on Fri, Sep 19",1 hr 15 min,0,704,CZS,SBCZ,Cruzeiro do Sul,Rio Branco,SBRB,RBR,591.85
-True,Gol,"2:20 PM on Fri, Sep 19","5:15 PM on Fri, Sep 19",2 hr 55 min,0,1672,EZE,SAEZ,Ezeiza,Galeão,SBGL,GIG,1994.98
+True,Gol,"2:20 PM on Fri, Sep 19","5:15 PM on Fri, Sep 19",2 hr 55 min,0,1675,EZE,SAEZ,Ezeiza,Galeão,SBGL,GIG,1994.98
 True,Gol,"9:40 PM on Fri, Sep 19","10:45 PM on Fri, Sep 19",1 hr 5 min,0,252,FLN,SBFL,Florianópolis,Porto Alegre,SBPA,POA,362.79
 True,Gol,"3:25 AM on Fri, Sep 19","5:20 AM on Fri, Sep 19",1 hr 55 min,0,530,FOR,SBFZ,Fortaleza,Salvador,SBSV,SSA,1010.35
 True,Gol,"7:40 AM on Fri, Sep 19","10:40 AM on Fri, Sep 19",3 hr,0,1307,GIG,SBGL,Galeão,João Pessoa,SBJP,JPA,1948.24
 True,Gol,"11:35 PM on Fri, Sep 19","2:40 AM on Sat, Sep 20",3 hr 5 min,0,966,GIG,SBGL,Galeão,Natal,SBSG,NAT,2067.22
 True,Gol,"9:40 PM on Fri, Sep 19","10:45 PM on Fri, Sep 19",1 hr 5 min,0,179,GIG,SBGL,Galeão,São José dos Campos,SBSJ,SJK,272.6
 True,Gol,"3:50 PM on Fri, Sep 19","5:50 PM on Fri, Sep 19",2 hr,0,728,GRU,SBGR,Guarulhos,Ilhéus,SBIL,IOS,1233.55
-True,Gol,"9:40 AM on Fri, Sep 19","1:30 PM on Fri, Sep 19",3 hr 50 min,0,1638,GRU,SBGR,Guarulhos,Mendoza,SAME,MDZ,2420.43
+True,Gol,"9:40 AM on Fri, Sep 19","1:30 PM on Fri, Sep 19",3 hr 50 min,0,1628,GRU,SBGR,Guarulhos,Mendoza,SAME,MDZ,2420.43
 True,Gol,"9:20 PM on Fri, Sep 19","10:50 PM on Fri, Sep 19",1 hr 30 min,0,478,GRU,SBGR,Guarulhos,Maringá,SBMG,MGF,566.37
-True,Gol,"9:20 AM on Fri, Sep 19","12:05 PM on Fri, Sep 19",2 hr 45 min,0,911,GRU,SBGR,Guarulhos,Montevidéu,SUMU,MVD,1566.76
+True,Gol,"9:20 AM on Fri, Sep 19","12:05 PM on Fri, Sep 19",2 hr 45 min,0,905,GRU,SBGR,Guarulhos,Montevidéu,SUMU,MVD,1566.76
 True,Gol,"9:30 AM on Fri, Sep 19","11:15 AM on Fri, Sep 19",2 hr 45 min,0,567,GRU,SBGR,Guarulhos,Sinop,SWSI,OPS,1601.81
 True,Gol,"4:55 PM on Fri, Sep 19","7:05 PM on Fri, Sep 19",2 hr 10 min,0,532,GRU,SBGR,Guarulhos,Pelotas,SBPK,PET,1084.19
 True,Gol,"9:45 PM on Fri, Sep 19","12:25 AM on Sat, Sep 20",2 hr 40 min,0,664,GRU,SBGR,Guarulhos,Petrolina,SBPL,PNZ,1679.19
-True,Gol,"12:15 AM on Fri, Sep 19","3:25 AM on Fri, Sep 19",3 hr 10 min,0,1782,GRU,SBGR,Guarulhos,Teresina,SBTE,THE,2070.58
-True,Gol,"9:55 PM on Fri, Sep 19","11:55 PM on Fri, Sep 19",2 hr,0,690,GRU,SBGR,Guarulhos,Vitória da Conquista,SBQV,VDC,1117.02
+True,Gol,"12:15 AM on Fri, Sep 19","3:25 AM on Fri, Sep 19",3 hr 10 min,0,2028,GRU,SBGR,Guarulhos,Teresina,SBTE,THE,2070.58
+True,Gol,"9:55 PM on Fri, Sep 19","11:55 PM on Fri, Sep 19",2 hr,0,781,GRU,SBGR,Guarulhos,Vitória da Conquista,SBQV,VDC,1117.02
 True,Gol,"4:40 PM on Fri, Sep 19","6:15 PM on Fri, Sep 19",1 hr 35 min,0,289,GRU,SBGR,Guarulhos,Chapecó,SBCH,XAP,745.28
-True,Gol,"12:05 PM on Fri, Sep 19","2:10 PM on Fri, Sep 19",2 hr 5 min,0,1368,GYN,SBGO,Goiânia,Salvador,SBSV,SSA,1243.76
+True,Gol,"12:05 PM on Fri, Sep 19","2:10 PM on Fri, Sep 19",2 hr 5 min,0,1250,GYN,SBGO,Goiânia,Salvador,SBSV,SSA,1243.76
 True,Gol,"12:05 PM on Fri, Sep 19","1:50 PM on Fri, Sep 19",1 hr 45 min,0,793,JPA,SBJP,João Pessoa,Salvador,SBSV,SSA,736.87
 True,Gol,"1:30 AM on Fri, Sep 19","2:55 AM on Fri, Sep 19",1 hr 25 min,0,532,MAO,SBEG,Manaus,Porto Velho,SBPV,PVH,758.51
 True,Gol,"12:05 AM on Fri, Sep 19","1:05 AM on Fri, Sep 19",2 hr,0,567,MAO,SBEG,Manaus,Rio Branco,SBRB,RBR,1150.12
 True,Gol,"11:45 AM on Fri, Sep 19","1:55 PM on Fri, Sep 19",1 hr 10 min,0,1052,MAO,SBEG,Manaus,Santarém,SBSN,STM,589.36
-True,Gol,"12:30 PM on Fri, Sep 19","1:40 PM on Fri, Sep 19",1 hr 10 min,0,500,MCZ,SBMO,Maceió,Salvador,SBSV,SSA,466.51
+True,Gol,"12:30 PM on Fri, Sep 19","1:40 PM on Fri, Sep 19",1 hr 10 min,0,795,MCZ,SBMO,Maceió,Salvador,SBSV,SSA,466.51
 True,Gol,"12:10 PM on Fri, Sep 19","1:50 PM on Fri, Sep 19",1 hr 40 min,0,765,NAT,SBSG,Natal,Salvador,SBSV,SSA,853.95
 True,Gol,"11:40 AM on Fri, Sep 19","1:55 PM on Fri, Sep 19",2 hr 15 min,0,638,SLZ,SBSL,São Luís,Salvador,SBSV,SSA,1314.33
 True,Gol,"2:40 PM on Fri, Sep 19","5:15 PM on Fri, Sep 19",2 hr 35 min,0,754,SSA,SBSV,Salvador,Viracopos,SBKP,VCP,1455.15
 True,Gol,"2:50 PM on Fri, Sep 19","4:30 PM on Fri, Sep 19",1 hr 40 min,0,376,SSA,SBSV,Salvador,Vitória,SBVT,VIX,839.08
-True,Gol,"5:10 PM on Fri, Sep 19","7:30 PM on Fri, Sep 19",2 hr 20 min,0,526,FLN,SBFL,Florianópolis,Aeroparque,SABE,AEP,1210.71
-True,Gol,"10:50 AM on Fri, Sep 19","2:20 PM on Fri, Sep 19",3 hr 30 min,0,954,GIG,SBGL,Galeão,Aeroparque,SABE,AEP,1968.49
-True,Gol,"3:35 AM on Fri, Sep 19","8:00 AM on Fri, Sep 19",4 hr 25 min,0,1033,SSA,SBSV,Salvador,Aeroparque,SABE,AEP,3140.33
+True,Gol,"5:10 PM on Fri, Sep 19","7:30 PM on Fri, Sep 19",2 hr 20 min,0,627,FLN,SBFL,Florianópolis,Aeroparque,SABE,AEP,1210.71
+True,Gol,"10:50 AM on Fri, Sep 19","2:20 PM on Fri, Sep 19",3 hr 30 min,0,948,GIG,SBGL,Galeão,Aeroparque,SABE,AEP,1968.49
+True,Gol,"3:35 AM on Fri, Sep 19","8:00 AM on Fri, Sep 19",4 hr 25 min,0,1547,SSA,SBSV,Salvador,Aeroparque,SABE,AEP,3140.33
 True,Gol,"9:35 AM on Fri, Sep 19","11:55 AM on Fri, Sep 19",2 hr 20 min,0,553,GIG,SBGL,Galeão,Aracaju,SBAR,AJU,1464.15
 True,Gol,"10:50 PM on Fri, Sep 19","1:30 AM on Sat, Sep 20",2 hr 40 min,0,579,GRU,SBGR,Guarulhos,Aracaju,SBAR,AJU,1700.91
 True,Gol,"3:10 PM on Fri, Sep 19","3:55 PM on Fri, Sep 19",45 min,0,324,SSA,SBSV,Salvador,Aracaju,SBAR,AJU,252.55
 True,Gol,"11:15 AM on Fri, Sep 19","12:35 PM on Fri, Sep 19",1 hr 20 min,0,300,CGH,SBSP,Congonhas,Araçatuba,SBAU,ARU,475.71
-True,Gol,"9:25 AM on Fri, Sep 19","11:40 AM on Fri, Sep 19",2 hr 15 min,0,558,GRU,SBGR,Guarulhos,Assunção,SGAS,ASU,1138.12
+True,Gol,"9:25 AM on Fri, Sep 19","11:40 AM on Fri, Sep 19",2 hr 15 min,0,555,GRU,SBGR,Guarulhos,Assunção,SGAS,ASU,1138.12
 True,Gol,"10:15 PM on Fri, Sep 19","1:55 AM on Sat, Sep 20",3 hr 40 min,0,854,GIG,SBGL,Galeão,Belém,SBBE,BEL,2436.88
 True,Gol,"1:05 PM on Fri, Sep 19","4:45 PM on Fri, Sep 19",3 hr 40 min,0,409,GRU,SBGR,Guarulhos,Belém,SBBE,BEL,2449.25
 True,Gol,"2:55 PM on Fri, Sep 19","3:55 PM on Fri, Sep 19",1 hr,0,370,MCP,SBMQ,Macapá,Belém,SBBE,BEL,329.24
-True,Gol,"8:50 AM on Fri, Sep 19","12:22 PM on Fri, Sep 19",5 hr 32 min,0,1014,BSB,SBBR,Brasília,Bogotá,SKBO,BOG,3677.55
+True,Gol,"8:50 AM on Fri, Sep 19","12:22 PM on Fri, Sep 19",5 hr 32 min,0,932,BSB,SBBR,Brasília,Bogotá,SKBO,BOG,3677.55
 True,Gol,"12:25 PM on Fri, Sep 19","1:50 PM on Fri, Sep 19",1 hr 25 min,0,685,CNF,SBCF,Confins,Porto Seguro,SBPS,BPS,626.23
 True,Gol,"5:20 PM on Fri, Sep 19","8:00 PM on Fri, Sep 19",1 hr 40 min,0,342,CGB,SBCY,Cuiabá,Brasília,SBBR,BSB,878.65
 True,Gol,"5:40 AM on Fri, Sep 19","8:00 AM on Fri, Sep 19",2 hr 20 min,0,657,FLN,SBFL,Florianópolis,Brasília,SBBR,BSB,1308.36
 True,Gol,"6:45 PM on Fri, Sep 19","7:35 PM on Fri, Sep 19",50 min,0,955,GYN,SBGO,Goiânia,Brasília,SBBR,BSB,163.0
 True,Gol,"5:10 PM on Fri, Sep 19","7:50 PM on Fri, Sep 19",2 hr 40 min,0,1483,JPA,SBJP,João Pessoa,Brasília,SBBR,BSB,1711.54
-True,Gol,"9:40 PM on Fri, Sep 19","6:35 AM on Sat, Sep 20",7 hr 55 min,0,1833,MCO,KMCO,Orlando,Brasília,SBBR,BSB,6078.96
-True,Gol,"10:35 PM on Fri, Sep 19","7:15 AM on Sat, Sep 20",7 hr 40 min,0,1585,MIA,KMIA,Miami,Brasília,SBBR,BSB,5791.75
+True,Gol,"9:40 PM on Fri, Sep 19","6:35 AM on Sat, Sep 20",7 hr 55 min,0,1834,MCO,KMCO,Orlando,Brasília,SBBR,BSB,6078.96
+True,Gol,"10:35 PM on Fri, Sep 19","7:15 AM on Sat, Sep 20",7 hr 40 min,0,1587,MIA,KMIA,Miami,Brasília,SBBR,BSB,5791.75
 True,Gol,"5:15 PM on Fri, Sep 19","8:00 PM on Fri, Sep 19",2 hr 45 min,0,1628,NAT,SBSG,Natal,Brasília,SBBR,BSB,1768.55
 True,Gol,"6:45 AM on Fri, Sep 19","8:05 AM on Fri, Sep 19",1 hr 20 min,0,1167,PMW,SBPJ,Palmas,Brasília,SBBR,BSB,619.05
 True,Gol,"3:35 AM on Fri, Sep 19","7:30 AM on Fri, Sep 19",2 hr 55 min,0,2053,PVH,SBPV,Porto Velho,Brasília,SBBR,BSB,1908.91
-True,Gol,"5:00 AM on Fri, Sep 19","7:20 AM on Fri, Sep 19",2 hr 20 min,0,649,SLZ,SBSL,São Luís,Brasília,SBBR,BSB,1523.63

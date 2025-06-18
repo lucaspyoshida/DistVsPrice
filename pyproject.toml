@@ -1,7 +1,7 @@
 [project]
 name = "distvsprice"
 version = "0.1.0"
-description = "Add your description here"
+description = "Busca preços de passagens aéreas e distâncias entre localidades."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [

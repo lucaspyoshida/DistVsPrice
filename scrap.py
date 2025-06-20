@@ -11,8 +11,9 @@ async def fetch_with_playwright(url: str) -> str:
         await page.goto(url)
         if page.url.startswith("https://consent.google.com"):
             await page.click('text="Accept all"')
-        locator = page.locator('.eQ35Ce')
-        await locator.wait_for()
+        # locator = page.locator('.eQ35Ce')
+        # await locator.wait_for()
+        await page.wait_for_load_state("networkidle")
         body = await page.evaluate(
             "() => document.querySelector('[role=\"main\"]').innerHTML"
         )

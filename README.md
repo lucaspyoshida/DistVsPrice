@@ -51,6 +51,21 @@ Já o site [`flightmanager.com`](https://www.flightmanager.com/) não possui `ro
 
 Todas as etapas do projeto respeitam a LGPD.
 
+## Tipo de Licença das bibliotecas utilizadas
+
+| Biblioteca       | Tipo de Licença                   |
+|------------------|------------------------------------|
+| **beautifulsoup4** | MIT License                       |
+| **lxml**          | BSD-like (com partes MIT e ElementTree License) |
+| **matplotlib**    | PSF-based (Matplotlib License)     |
+| **pandas**        | BSD 3-Clause License               |
+| **playwright**    | Apache License 2.0                 |
+| **protobuf**      | BSD 3-Clause License               |
+| **requests**      | Apache License 2.0                 |
+| **seaborn**       | BSD 3-Clause License               |
+| **selectolax**    | MIT License                        |
+
+
 ## Licença e fontes
 
 Distribuído sob a licença MIT.
